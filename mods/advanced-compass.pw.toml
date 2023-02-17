@@ -1,6 +1,6 @@
 name = "Advanced Compass"
 filename = "AdvancedCompass-fabric-1.19.2-1.2.14.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

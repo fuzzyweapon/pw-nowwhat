@@ -1,6 +1,6 @@
 name = "Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge]"
 filename = "spyglass-improvements-1.4+mc1.19+fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

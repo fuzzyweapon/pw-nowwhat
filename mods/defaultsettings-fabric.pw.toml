@@ -1,6 +1,6 @@
 name = "DefaultSettings Fabric/Quilt"
 filename = "DefaultSettings-1.19.x-3.5.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Chunks fade in"
 filename = "chunksfadein-v3.0.8-1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

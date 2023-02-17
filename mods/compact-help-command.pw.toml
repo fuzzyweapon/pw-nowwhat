@@ -1,6 +1,6 @@
 name = "Compact Help Command"
 filename = "compacthelpcommand-1.19.2-2.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

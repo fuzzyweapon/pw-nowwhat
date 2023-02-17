@@ -1,6 +1,6 @@
 name = "Memory Usage Screen [Forge/Fabric]"
 filename = "memoryusagescreen-fabric-mc1.19-1.6.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

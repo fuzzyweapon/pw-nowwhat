@@ -1,6 +1,6 @@
 name = "Chicken Nerf"
 filename = "chicken-nerf-1.0.16+MC1.19-1.19.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

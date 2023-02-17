@@ -1,6 +1,6 @@
 name = "Cardinal Components"
 filename = "cardinal-components-api-5.0.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

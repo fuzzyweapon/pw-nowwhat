@@ -1,6 +1,6 @@
 name = "Maintenance Mode"
 filename = "mmode-fabric-1.19-1.1.1d.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

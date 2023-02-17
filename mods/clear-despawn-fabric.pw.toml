@@ -1,6 +1,6 @@
 name = "Clear Despawn [Fabric]"
 filename = "ClearDespawn-fabric-1.19.2-1.1.10.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

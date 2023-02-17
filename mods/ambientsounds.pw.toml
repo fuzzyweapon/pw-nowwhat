@@ -1,6 +1,6 @@
 name = "AmbientSounds 5"
 filename = "AmbientSounds_FABRIC_v5.2.13_mc1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

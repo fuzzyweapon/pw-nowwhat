@@ -1,6 +1,6 @@
 name = "WTHIT"
 filename = "wthit-fabric-5.13.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

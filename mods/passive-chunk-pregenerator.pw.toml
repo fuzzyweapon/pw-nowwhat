@@ -1,6 +1,6 @@
 name = "Passive Chunk Pregenerator"
 filename = "Passive-Pregen-fabric-1.19.2-1.0.3.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

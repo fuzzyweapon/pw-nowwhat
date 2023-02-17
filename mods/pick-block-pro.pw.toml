@@ -1,6 +1,6 @@
 name = "Pick Block Pro"
 filename = "Pick-Block-Pro-1.6.12-mc1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

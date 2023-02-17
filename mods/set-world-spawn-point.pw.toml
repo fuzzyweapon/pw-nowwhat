@@ -1,6 +1,6 @@
 name = "Set World Spawn Point"
 filename = "setworldspawnpoint-1.19.2-3.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

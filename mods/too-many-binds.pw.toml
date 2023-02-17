@@ -1,6 +1,6 @@
 name = "Too Many Binds"
 filename = "toomanybinds-0.3.3+1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

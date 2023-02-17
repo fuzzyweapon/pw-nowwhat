@@ -1,6 +1,6 @@
 name = "Clumps"
 filename = "Clumps-fabric-1.19.2-9.0.0+14.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Restart Server (Fabric/Quilt)"
 filename = "restart-server-1.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

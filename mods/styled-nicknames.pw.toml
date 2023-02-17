@@ -1,6 +1,6 @@
 name = "Styled Nicknames"
 filename = "styled-nicknames-1.1.2+1.19.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
