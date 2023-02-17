@@ -1,0 +1,13 @@
+name = "Minescript"
+filename = "minescript-mc1.19.2-fabric-mod-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2780fab73f8663b38534f565c482d9f76a881cb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4391634
+project-id = 657474

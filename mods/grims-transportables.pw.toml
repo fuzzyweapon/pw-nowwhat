@@ -1,0 +1,13 @@
+name = "Grim's Transportables"
+filename = "transportables-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1063db8713509bd4f1192eab8ef6a845a2aec3c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3819689
+project-id = 473508

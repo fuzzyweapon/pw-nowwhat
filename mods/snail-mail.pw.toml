@@ -1,0 +1,13 @@
+name = "Snail Mail"
+filename = "snailmail-1.19.2-1.1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a5a859110846f364a45b0264dff53fb7ece7edf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4352549
+project-id = 396710

@@ -1,0 +1,19 @@
+{
+  "modules": {
+    "megane-fabric-transfer": {
+      "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true
+    },
+    "megane-alloy-forgery": {
+      "lol.bai.megane.module.alloyforgery.MeganeAlloyForgery": true
+    },
+    "megane-luggage": {
+      "lol.bai.megane.module.luggage.MeganeLuggage": true
+    },
+    "megane-reborn-energy": {
+      "lol.bai.megane.module.rebornenergy.MeganeRebornEnergy": true
+    },
+    "megane-vanilla": {
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}

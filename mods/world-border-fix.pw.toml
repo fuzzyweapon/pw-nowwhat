@@ -1,0 +1,13 @@
+name = "Multi World Borders"
+filename = "multiworldborders-1.5-fabric-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "907b649a99969fd19a8df9e77e49e6a5466bb257"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831515
+project-id = 443120

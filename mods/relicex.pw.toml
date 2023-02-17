@@ -1,0 +1,13 @@
+name = "RelicEx"
+filename = "relicex-3.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baccec1bbca2820331c7def6cb0a4f43bacbe1ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4287697
+project-id = 439281

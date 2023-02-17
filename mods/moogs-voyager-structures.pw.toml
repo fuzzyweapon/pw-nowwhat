@@ -1,0 +1,13 @@
+name = "MVS - Moog's Voyager Structures"
+filename = "mvs-2.5.10-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50399df8aa492b35a7e1cec13e07631e82b99a2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4132460
+project-id = 656977

@@ -1,0 +1,13 @@
+name = "Archeology Mod"
+filename = "capsey-archeology-1.19.2-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79f0e607d1c40d35b6a9cdd8c0bed8f6800c1c05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4018063
+project-id = 539957

@@ -1,0 +1,13 @@
+name = "Villager Names (Fabric)"
+filename = "villagernames-1.19.2-4.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f057219b934b2b0f64c844cf1f7f1288b1b05b45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4362002
+project-id = 416379

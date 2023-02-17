@@ -1,0 +1,13 @@
+name = "PluckableArrows"
+filename = "pluckablearrows-1.2.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dffe6aacefed3bb11f3c51062fb88510fc5f17d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4105115
+project-id = 568424

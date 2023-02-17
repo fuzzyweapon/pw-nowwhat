@@ -1,0 +1,13 @@
+name = "PlayerAbilityLib"
+filename = "pal-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75065389add72913f889469e2bae4229fa661d4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3800599
+project-id = 359522

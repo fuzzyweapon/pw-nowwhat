@@ -1,0 +1,13 @@
+name = "Retraining"
+filename = "Retraining-fabric-1.19-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba43dfd8658e4260b84f91d089920b5977765b4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836510
+project-id = 543209

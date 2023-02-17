@@ -1,0 +1,13 @@
+name = "Mentioned"
+filename = "Mentioned-Fabric-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11a4030b3e67756b42034dabbf91324ae00454f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074380
+project-id = 618208

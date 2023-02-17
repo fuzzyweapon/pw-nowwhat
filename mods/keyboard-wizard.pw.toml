@@ -1,0 +1,13 @@
+name = "Keyboard Wizard"
+filename = "keywizard-fabric-v2.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a0e7e68404c6047dd88346f7256dc7c958cd4dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4111459
+project-id = 262366

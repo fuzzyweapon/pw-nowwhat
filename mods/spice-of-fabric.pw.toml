@@ -1,0 +1,13 @@
+name = "Spice of Fabric (Fabric)"
+filename = "spiceoffabric-1.6.0-beta.2+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b5b3cabe400c7e9f60ebaa6946c4be594198cf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4173588
+project-id = 318416

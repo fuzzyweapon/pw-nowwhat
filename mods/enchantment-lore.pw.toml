@@ -1,0 +1,13 @@
+name = "Enchantment Lore"
+filename = "enchantment-lore-1.3.0-b1+MC1.19.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1711901e03df93857f79c93047409cf368e21b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3930133
+project-id = 430219

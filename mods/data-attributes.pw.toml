@@ -1,0 +1,13 @@
+name = "Data Attributes"
+filename = "data-attributes-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5fd18cca79a17a76b8f399ec3e19e637168305c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4381380
+project-id = 514734

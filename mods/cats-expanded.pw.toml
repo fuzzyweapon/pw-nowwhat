@@ -1,0 +1,13 @@
+name = "Cats Expanded"
+filename = "cats-expanded-1.3.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e36746f14050d75965e83850755b55f42f3ce2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4057899
+project-id = 576251

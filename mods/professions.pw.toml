@@ -1,0 +1,13 @@
+name = "Professions"
+filename = "Professions-1.19.2-FABRIC-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba8a324c9ba706110bbbc1f750bfb7be1926f670"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4348549
+project-id = 607057

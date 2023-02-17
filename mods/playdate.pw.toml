@@ -1,0 +1,13 @@
+name = "Playdate"
+filename = "playdate-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26502851e9afe9a2bebb4f214301a36b2eb8b416"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4275615
+project-id = 577629

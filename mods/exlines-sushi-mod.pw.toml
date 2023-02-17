@@ -1,0 +1,13 @@
+name = "Exline's Sushi Mod"
+filename = "sushimod-fabric1.19.2-v1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d41f1d93e30006c92c2af9de164cc3a7cd71c2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062655
+project-id = 502344

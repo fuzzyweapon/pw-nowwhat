@@ -1,0 +1,13 @@
+name = "mc-NowWhat"
+author = "fuzzyweapon"
+version = "1.19.2-0.1.0-FAT"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "42fec378daf9a7dda46aca113db27ed9be28c0831191bbfca3dc1be38bdeeeed"
+
+[versions]
+fabric = "0.14.14"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Exline's Sandwich Mod"
+filename = "sandwichmod-fabric-1.19.2-v2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0dea098cf12216a4b6bfe92d467abad5dc87bb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062639
+project-id = 502266

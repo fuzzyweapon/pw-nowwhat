@@ -1,0 +1,13 @@
+name = "DeftuLib"
+filename = "DeftuLib-1.19.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b60776de182382a7541ea377241909bc4d268bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4271861
+project-id = 695205

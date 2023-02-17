@@ -1,0 +1,13 @@
+name = "Omni-Hopper"
+filename = "omnihopper-1.2.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ca2d6046a399eefc2abfb901ad3fdcc98714835"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4293397
+project-id = 610606

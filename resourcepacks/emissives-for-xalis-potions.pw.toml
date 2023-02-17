@@ -1,0 +1,13 @@
+name = "Emissives for xali's Potions"
+filename = "xali's+Potions_EMISSIVE+v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32484ea081dd65e44f12da7027c1cdd1bbd1af94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4132074
+project-id = 719454

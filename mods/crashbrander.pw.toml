@@ -1,0 +1,13 @@
+name = "CrashBrander"
+filename = "CrashBrander-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e6436cf825e290c5dfe3ce017241cf9a9aa27d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4162639
+project-id = 657052

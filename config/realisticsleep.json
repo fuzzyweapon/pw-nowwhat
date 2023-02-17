@@ -1,0 +1,10 @@
+{
+  "dawnMessage": "A brand new day for a brave new world...",
+  "sendSleepingMessage": true,
+  "sendNotEnoughPlayersSleepingMessage": true,
+  "sleepSpeedCurve": "LINEAR",
+  "sleepSpeedMultiplier": 25.0,
+  "blockEntityTickSpeedMultiplier": 25.0,
+  "chunkTickSpeedMultiplier": 25.0,
+  "raidTickSpeedMultiplier": 25.0
+}

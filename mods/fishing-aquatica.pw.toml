@@ -1,0 +1,13 @@
+name = "Fishing Aquatica"
+filename = "FishingRework-0.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8445fda1c9ac38471014f59e3861da8d0ee9f64e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4293651
+project-id = 677892

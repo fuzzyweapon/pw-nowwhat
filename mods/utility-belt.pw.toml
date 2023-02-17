@@ -1,0 +1,13 @@
+name = "Utility Belt"
+filename = "utilitybelt-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdbe6abbd13cb646b17d9ccbc46027e36f4115cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4096315
+project-id = 664053

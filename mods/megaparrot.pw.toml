@@ -1,0 +1,13 @@
+name = "MegaParrot"
+filename = "megaparrot-1.0.7-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7650a5b2e774980ad7f0c0eb207aeedbdacf20a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4013321
+project-id = 561527

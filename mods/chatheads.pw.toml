@@ -1,0 +1,13 @@
+name = "ChatHeads"
+filename = "ChatHeads-1.4-MC1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb4eac7999bffc74975d961f7cf768dcd6c5a1a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4053512
+project-id = 686321

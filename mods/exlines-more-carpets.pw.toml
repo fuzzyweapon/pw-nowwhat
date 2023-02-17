@@ -1,0 +1,13 @@
+name = "Exline's More Carpets"
+filename = "morecarpets-fabric-1.19.2-v1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b196d77302c0ad038767ccb51311c13d11baa262"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062636
+project-id = 561303

@@ -1,0 +1,13 @@
+name = "More Babies (Forge & Fabric) "
+filename = "More Babies-fabric-1.19.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5cba27a665b104de435c88dd7bfc91f918282d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4009536
+project-id = 590517

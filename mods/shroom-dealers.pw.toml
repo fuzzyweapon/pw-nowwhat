@@ -1,0 +1,13 @@
+name = "Shroom Dealers! [ FORGE / FABRIC ]"
+filename = "shroomdealers_1.6-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d7cee61773c16a30357b15ccf574be17b9b610e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4396033
+project-id = 631695

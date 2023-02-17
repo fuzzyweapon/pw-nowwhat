@@ -1,0 +1,13 @@
+name = "Tutta's MCA Texture"
+filename = "Tutta's_MCA_Texture_V1.15 - 1.19+.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63ef993d63f1b29cd5dd75f6f91d56854052bcff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3902597
+project-id = 648546

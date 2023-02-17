@@ -1,0 +1,13 @@
+name = "Chiseled Bricks"
+filename = "chiseled-bricks-1.2-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9aa20e34ee6d5050b402cb13c0d66d19b9012e1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4002432
+project-id = 664282

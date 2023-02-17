@@ -1,0 +1,13 @@
+name = "Sync (Fabric)"
+filename = "sync-mc1.19.1-4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bbbc8fbbf6bc99625500141c8d68debcbbfdbda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3921719
+project-id = 515365

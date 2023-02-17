@@ -1,0 +1,13 @@
+name = "Chunk Copy (Fabric)"
+filename = "chunkcopy-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "099a51b39f1d732793c95d20334f3c7a7684ec7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3905540
+project-id = 591982

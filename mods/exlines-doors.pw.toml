@@ -1,0 +1,13 @@
+name = "Exline's Doors"
+filename = "exlinedoors-fabric-1.19.2-v2.3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99439af9b4965adec2228a4ddac105eba4c8468c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062609
+project-id = 624673

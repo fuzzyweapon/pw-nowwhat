@@ -1,0 +1,13 @@
+name = "Content Creator Server Status"
+filename = "status-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8824d47f1a58fc00e3d8495747ed5b9b45a4f665"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4024702
+project-id = 687609

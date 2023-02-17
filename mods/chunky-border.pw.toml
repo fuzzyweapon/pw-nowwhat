@@ -1,0 +1,13 @@
+name = "Chunky Border (Fabric)"
+filename = "ChunkyBorder-1.1.34.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d9c40a20558e2527e5a1c36c7d93c1fbdfaf0c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3970958
+project-id = 631658

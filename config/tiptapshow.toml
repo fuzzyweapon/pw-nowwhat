@@ -1,0 +1,16 @@
+isEnabled = true
+backgroundColor = 926762943
+pressedBackgroundColor = 926762823
+keyColor = 16777215
+pressedKeyColor = 0
+rainbowMode = false
+rainbowOffset = 9
+renderInGui = true
+keyShadow = false
+showMovement = true
+showClick = true
+showJump = true
+cpsType = "ALWAYS"
+displayFactor = 1.0
+horizontalSlider = 0
+verticalSlider = 0

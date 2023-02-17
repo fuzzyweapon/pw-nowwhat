@@ -1,0 +1,18 @@
+{
+  "professionNames": true,
+  "golemNames": true,
+  "needsOP": true,
+  "hasRead": true,
+  "nitwitText": "Dunce",
+  "villagerTextFormatting": "WHITE",
+  "childNames": true,
+  "turnOffVillagerConsoleSpam": false,
+  "wanderingTraderNames": true,
+  "wanderingTraderText": "Dunce",
+  "surNames": true,
+  "reverseLastNames": false,
+  "nameTagNames": true,
+  "piglinNames": true,
+  "piglinSurnames": true,
+  "illagerEntityNames": true
+}

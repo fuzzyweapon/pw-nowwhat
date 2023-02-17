@@ -1,0 +1,13 @@
+name = "Enhanced Mob Spawners"
+filename = "spawnermod-1.19.2-1.2.1+Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93d2b21eb45db11ddae4451fe23acd67e019f64a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4326062
+project-id = 321663

@@ -1,0 +1,55 @@
+{
+  "enableInstantShellConstruction": false,
+  "warnPlayerInsteadOfKilling": true,
+  "fingerstickDamage": 20.0,
+  "hardcoreFingerstickDamage": 40.0,
+  "shellConstructorCapacity": 256000,
+  "shellStorageCapacity": 320,
+  "shellStorageConsumption": 16,
+  "shellStorageAcceptsRedstone": true,
+  "shellStorageMaxUnpoweredLifespan": 20,
+  "energyMap": [
+    {
+      "entityId": "minecraft:chicken",
+      "outputEnergyQuantity": 2
+    },
+    {
+      "entityId": "minecraft:pig",
+      "outputEnergyQuantity": 16
+    },
+    {
+      "entityId": "minecraft:player",
+      "outputEnergyQuantity": 20
+    },
+    {
+      "entityId": "minecraft:wolf",
+      "outputEnergyQuantity": 24
+    },
+    {
+      "entityId": "minecraft:creeper",
+      "outputEnergyQuantity": 80
+    },
+    {
+      "entityId": "minecraft:enderman",
+      "outputEnergyQuantity": 160
+    }
+  ],
+  "preserveOrigins": false,
+  "syncPriority": [
+    {
+      "priority": "NATURAL"
+    }
+  ],
+  "wrench": "minecraft:stick",
+  "updateTranslationsAutomatically": false,
+  "easterEggs": {
+    "technoblade": {
+      "enable": true,
+      "renderCape": false,
+      "allowAnnouncements": true,
+      "allowQuotes": true,
+      "quoteDelay": 1800,
+      "cache": []
+    }
+  }
+}

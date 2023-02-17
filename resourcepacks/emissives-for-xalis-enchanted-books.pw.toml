@@ -1,0 +1,13 @@
+name = "Emissives for xali's Enchanted Books"
+filename = "xali'sEB_Emissive-v0.10.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10b9d013c77d3b0d5cd36a76d59df37e51905a8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4128169
+project-id = 716226

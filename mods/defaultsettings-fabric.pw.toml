@@ -1,0 +1,13 @@
+name = "DefaultSettings Fabric/Quilt"
+filename = "DefaultSettings-1.19.x-3.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9329777cbb85a904f331c9ff34b1b05c827a8d8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3904211
+project-id = 451860

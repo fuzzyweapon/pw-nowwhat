@@ -1,0 +1,13 @@
+name = "VanitySlots"
+filename = "VanitySlots-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e309ea02217f2da4ab5ef86c245a90a7fb6bcba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4284429
+project-id = 570109

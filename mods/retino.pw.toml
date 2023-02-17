@@ -1,0 +1,13 @@
+name = "retiNO"
+filename = "retino-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f5412e647d345cff1bb7d85a645d50768ca294b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3144613
+project-id = 371235

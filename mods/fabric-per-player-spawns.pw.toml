@@ -1,0 +1,13 @@
+name = "Fabric per player spawns"
+filename = "fabric-per-player-spawns-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30a89b4ddd8bfa04138f061e1379d14e4d7eee24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3998794
+project-id = 473051

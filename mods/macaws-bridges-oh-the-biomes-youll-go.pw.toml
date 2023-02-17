@@ -1,0 +1,13 @@
+name = "Macaw's Bridges - Oh The Biomes You'll Go"
+filename = "macawsbridgesbyg-fabric-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ac10a8657af558d26398cf0af9215c8eddf4c8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4293589
+project-id = 535960

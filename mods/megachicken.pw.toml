@@ -1,0 +1,13 @@
+name = "MegaChicken"
+filename = "megachicken-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0a096fce7037d68fe8fb20642133aff1b0426a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3986643
+project-id = 636395

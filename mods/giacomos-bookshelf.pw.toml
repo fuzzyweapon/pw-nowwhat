@@ -1,0 +1,13 @@
+name = "Giacomo's Bookshelf"
+filename = "giacomos_bookshelf1.3.4-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "887351a2e98fed777dd2bdc9e7ccefa1fa59409f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4120833
+project-id = 260373

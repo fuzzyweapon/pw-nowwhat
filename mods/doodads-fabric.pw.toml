@@ -1,0 +1,13 @@
+name = "Doodads [Fabric]"
+filename = "doodads-0.1.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6a62a5098963f5f93db1fe25a28cef96e3ea2a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3925553
+project-id = 649882

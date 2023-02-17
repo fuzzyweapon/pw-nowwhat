@@ -1,0 +1,13 @@
+name = "Recipe Commands"
+filename = "recipecommands-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "337cd6f1ba19848db8710686db7a64608fa95598"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4318846
+project-id = 446886

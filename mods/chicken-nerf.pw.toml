@@ -1,0 +1,13 @@
+name = "Chicken Nerf"
+filename = "chicken-nerf-1.0.16+MC1.19-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb58d43317f1ed9deacfb91a8d4cce1868f69405"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3937880
+project-id = 396238

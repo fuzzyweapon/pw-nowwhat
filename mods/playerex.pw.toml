@@ -1,0 +1,13 @@
+name = "PlayerEx"
+filename = "playerex-3.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc954f5eb51e71710b79218a99add9196743ab2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4381845
+project-id = 409221
