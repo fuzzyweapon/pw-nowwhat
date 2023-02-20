@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "0a0e7e68404c6047dd88346f7256dc7c958cd4dc"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Graphical keyboard conflict finder, but this does not support robust keyboard binding assignment like Amecs mod so it is not recommended for setting them"
+
 [update]
 [update.curseforge]
 file-id = 4111459

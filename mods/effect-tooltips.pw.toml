@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "dfa7975c94eed7876496b7151f58f0ae5f6dd5da"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Adds tooltips to the potion effect section of the inventory"
+
 [update]
 [update.curseforge]
 file-id = 4019432

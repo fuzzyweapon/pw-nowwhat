@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "bf7432f6865743c6736861ec2153012859e54e0f"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "NA| Create local backups automatically"
+
 [update]
 [update.curseforge]
 file-id = 4105758

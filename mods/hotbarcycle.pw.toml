@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "63a86cdcc0d7cb711d768c0465542f3a89bbadb9"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Cycle inventory rows through hotbar.  Essentially it treats every row in the inventory like a separate hotbar profile and as the user cycles through, it chooses a different row to be the new hotbar, and moves the current hotbar out, allowing for quick shifting."
+
 [update]
 [update.curseforge]
 file-id = 4013289

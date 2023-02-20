@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "4c0b3f5906c930d0b28c70248f6a643aa6736632"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "MiniHUD for equipment durability, buff timers, SFX for almost breaking items, label window title by '<username> on <server>' for multi-instance players"
+
 [update]
 [update.curseforge]
 file-id = 3907244

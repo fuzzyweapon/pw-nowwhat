@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "f29604d445556d7bc3bb3171c4d7697da63fd816"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Shows memory usage on the loading screen.  Even if you don't care how much memory is being used, this helps provide extra visual feedback that Minecraft hasn't crashed while the loading bar is stagnant."
+
 [update]
 [update.curseforge]
 file-id = 3935681

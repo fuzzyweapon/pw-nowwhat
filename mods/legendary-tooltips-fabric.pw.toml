@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "5edec0968a0b24d559de8c82660d526bc0bd5648"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Rare items get fancy tooltips!"
+
 [update]
 [update.curseforge]
 file-id = 3998293

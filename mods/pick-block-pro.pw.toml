@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "e2c6a42f063f9f5808700b0e71f04feff0d521f4"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "Pro builder tool for picking blocks (buidling), NBT (dev), tools, etc"
+
 [update]
 [update.curseforge]
 file-id = 3864262

@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "c3ffc825c02f744f7f6f1fa227214b5c81090563"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "A mini map for the HUD"
+
 [update]
 [update.curseforge]
 file-id = 4381123

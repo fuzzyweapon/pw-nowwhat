@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "808f6bd204ac2b2295ba16e5383998526d66fe5e"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Adds pop-up menu when a keybinding with conflicts is activated.  Essential for managing conflicts."
+
 [update]
 [update.curseforge]
 file-id = 3840790

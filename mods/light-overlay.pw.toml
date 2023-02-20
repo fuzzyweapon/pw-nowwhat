@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "188fbcfdc097b1a5309f1588270d075627c84a96"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Grid overlay to see block light levels (for mob spawning management)"
+
 [update]
 [update.curseforge]
 file-id = 3832013

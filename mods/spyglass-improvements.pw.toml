@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "38728ccc816f27fb00b3b40a4df702fac076fa75"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Enhances spyglass with adjustable zoom, quick access, and various overlays (can strip overlay)"
+
 [update]
 [update.curseforge]
 file-id = 3987337

@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "1bbc527d23b53e0aae4d5e1deddf92b1f394b94b"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Fancier, more readable, more informative F3.  Useful for screenshots when reporting bugs."
+
 [update]
 [update.curseforge]
 file-id = 4030572

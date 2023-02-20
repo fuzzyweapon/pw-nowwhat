@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "099a51b39f1d732793c95d20334f3c7a7684ec7c"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "Builders | Downloads (copies) worlds from multiplayer servers.  Useful for doing offline building, then following up with litematica and syncmatica for sharing it with others or loading it into the world.  This is very useful because you can use powerful tools on those single player worlds without risking harm to the multiplayer world.  For some people, using these external editors is more fun and productive for their ambitions or is more complimentary to their play style."
+
 [update]
 [update.curseforge]
 file-id = 3905540

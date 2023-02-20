@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "418e3ee6bdd33efa22e9ab9c3c8d910fc16dc09c"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Inventory management such as sorting, moving only inventory that matches what is in the chest inventory, locked slots, throw all, gear sets, and more"
+
 [update]
 [update.curseforge]
 file-id = 4370583

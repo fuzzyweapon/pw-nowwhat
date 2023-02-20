@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "22cd35654012bbb6cb136d8152a51533ca3b1467"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Makes dropped items flash when they're about to despawn"
+
 [update]
 [update.curseforge]
 file-id = 4070162

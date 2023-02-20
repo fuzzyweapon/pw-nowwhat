@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "c48aa5d40b7af379f21cbc1f059299ea0644ed1c"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "What Mod Is This Actually From?  Shows what mod adds enchantments on books and status effects of potions."
+
 [update]
 [update.curseforge]
 file-id = 4049590

@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "c1711901e03df93857f79c93047409cf368e21b6"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Adds ability to read enchanted books which contain their lore and description"
+
 [update]
 [update.curseforge]
 file-id = 3930133

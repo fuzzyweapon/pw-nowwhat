@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "1b82aba9f70f1185814f6d8eb3ed64c878d296a2"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Essential builder's tool for measuring a span of blocks.  Like a block measuring tape"
+
 [update]
 [update.curseforge]
 file-id = 3845934

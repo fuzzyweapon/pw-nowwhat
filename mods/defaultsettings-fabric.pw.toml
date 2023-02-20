@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "9329777cbb85a904f331c9ff34b1b05c827a8d8a"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Helps preserve user modpack settings"
+
 [update]
 [update.curseforge]
 file-id = 3904211

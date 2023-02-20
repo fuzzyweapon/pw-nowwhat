@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "a635a001ed6b22da929696baa7e2c657b5416654"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Dependency | Inventory Profiles Next support library"
+
 [update]
 [update.curseforge]
 file-id = 4370451

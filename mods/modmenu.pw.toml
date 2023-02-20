@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "495674289dcba88b6df3d86b7590c7b192b993fe"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Fiddle with mod settings in game and get links to mod documentation.  Not all configuration will appear here so it is worth it to scan relevant /config/*.jsons (etc) for options that don't."
+
 [update]
 [update.curseforge]
 file-id = 4145207

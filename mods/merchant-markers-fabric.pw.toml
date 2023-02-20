@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "cf888cfeb6ea386d26d6be6f162322cf28854679"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Add icons above villagers to show their profession"
+
 [update]
 [update.curseforge]
 file-id = 3922152

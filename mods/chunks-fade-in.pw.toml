@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "7676373ffd51a5ab924091f937d44de6864a37d4"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "If enabled, borders of the world fade into and out of view."
+
 [update]
 [update.curseforge]
 file-id = 4378655

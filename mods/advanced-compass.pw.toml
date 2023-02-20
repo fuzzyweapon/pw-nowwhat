@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "4ba5f85325c41631aac06daf68a14e41c49305a6"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "A visual compass ribbon.  A great alternative to a minimap."
+
 [update]
 [update.curseforge]
 file-id = 4369235

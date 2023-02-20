@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "af91cf0d8944ce4d8d15592a0615174c26ce141a"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Better HUD while riding mounts"
+
 [update]
 [update.curseforge]
 file-id = 4023319

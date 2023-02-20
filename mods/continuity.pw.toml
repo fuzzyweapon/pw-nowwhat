@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "d82700772659f65560202f1cbd0e744007b21a75"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Efficient connected textures!"
+
 [update]
 [update.curseforge]
 file-id = 3927270

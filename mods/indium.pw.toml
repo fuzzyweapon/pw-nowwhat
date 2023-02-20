@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Optimization | Sodium add-on to support Fabric Rendering API"
+
 [update]
 [update.curseforge]
 file-id = 3957480

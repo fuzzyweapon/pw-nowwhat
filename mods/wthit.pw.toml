@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "b406cda778be73c83ea4a427f08ef63f0209c6db"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "What the Hell Is That? Tooltips what things are when you look at them in the world."
+
 [update]
 [update.curseforge]
 file-id = 4368863

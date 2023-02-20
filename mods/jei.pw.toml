@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "0046df5c28a6b981e57f815a8684769b8efb7109"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "View items and recipes in game"
+
 [update]
 [update.curseforge]
 file-id = 4354614

@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "522e9d07109e5bceb74b1796757b520bca4a6c4d"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Optional (and highly customizable) HUDs for inventory, potion effects, equipment, etc"
+
 [update]
 [update.curseforge]
 file-id = 4153723

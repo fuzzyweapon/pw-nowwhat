@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "3b272c42ed831db83f6990c78e7144f205bcc6c6"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "Development | Questionably improves autocomplete for console commands"
+
 [update]
 [update.curseforge]
 file-id = 3914607

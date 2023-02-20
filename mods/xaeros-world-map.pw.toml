@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "a8d555a5a35ea53e0b5ef9b8b5fdc7ef9727c6de"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "A world map.  Enabling this only is a useful compromise for those who hate vanilla Minecraft maps and feel that all forms of mini map HUDs are too cheaty for them.  It also aids in communication with others since it can copy coordinates to the clipboard as well as do other things like store waypoints."
+
 [update]
 [update.curseforge]
 file-id = 4381144

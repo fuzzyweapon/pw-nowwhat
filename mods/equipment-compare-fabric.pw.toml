@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "1a84286cd189a8335b02d90ecf5737c0bb191aac"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Show side-by-side comparison of tooltips (currently equipped vs proespective) in inventory"
+
 [update]
 [update.curseforge]
 file-id = 3848278
