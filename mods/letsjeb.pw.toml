@@ -1,0 +1,13 @@
+name = "Let's Jeb!"
+filename = "letsjeb-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YvHGNxlf/versions/RyqHyEFW/letsjeb-2.0.0.jar"
+hash-format = "sha1"
+hash = "c9069617e2008cad9d5093c3dcb2976cdef5ef67"
+
+[update]
+[update.modrinth]
+mod-id = "YvHGNxlf"
+version = "RyqHyEFW"

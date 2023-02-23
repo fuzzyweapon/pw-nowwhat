@@ -1,0 +1,13 @@
+name = "FabricCrossDimTPFix"
+filename = "fabriccrossdimtpfix-0.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/q1O2IGx6/versions/WNGn5gZu/fabriccrossdimtpfix-0.3.1.jar"
+hash-format = "sha1"
+hash = "7d08840f053af3dce9514076fc0d6fc63b87c989"
+
+[update]
+[update.modrinth]
+mod-id = "q1O2IGx6"
+version = "WNGn5gZu"

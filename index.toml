@@ -2137,14 +2137,6 @@ file = "instance.png"
 hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
 
 [[files]]
-file = "mods/AFKPeace-1.19-5.0.0.jar"
-hash = "f1981a89e6f66e2cc3743b60136ce9f0523c21dc7b2083c121e48b721d8de087"
-
-[[files]]
-file = "mods/MinersLunchbox-fabric-1.0.3+mc1.19.2.jar"
-hash = "25cf84a92139d0705b141bffa78d45fde1b0ee4ed520163699da82fa8a31a744"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "1094d740eeb51f7fb4743991e0af485a11046493ceb80d7ae594895fa14e14fb"
 metafile = true
@@ -2345,8 +2337,9 @@ hash = "6f620af29843a83c8dfd7cc7f7a31a78df465db7cbd15839212f4c73359417b1"
 metafile = true
 
 [[files]]
-file = "mods/cardinalboats_1.19_1.2.3.jar"
-hash = "01c36153211a4de5d62c2e676f9e76ed3a63faf448b3bed33edba7004ba4d9d1"
+file = "mods/cardinalboats.pw.toml"
+hash = "8542b06b8be9d23a827f66caeb0adb8c33c8ad964491696ec3d9981fd75c0fe2"
+metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
@@ -2594,8 +2587,9 @@ hash = "dd37b331789c533eb47ecc8e6783214f09560ff292d37e0f0a3b8329721ec7e4"
 metafile = true
 
 [[files]]
-file = "mods/emuno-1.0.0.jar"
-hash = "aa2523fff87b3ba7aec4ebc7a6b6e171db83612b0ef07dd4d9857419c353cab4"
+file = "mods/emuno.pw.toml"
+hash = "24d93f8e349a4b3612bedf0a67df4f526ae33bc9f388f16840a3aa90b5ff479f"
+metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
@@ -2688,8 +2682,9 @@ hash = "2a6f76ef73860e2590543341c5f81b3c43f927c9f0b26c21ff9c0b9698554609"
 metafile = true
 
 [[files]]
-file = "mods/fabriccrossdimtpfix-0.3.1.jar"
-hash = "ff196fdd81cfe68e09ab1fd305a4f596d397a2199871c571ac5f04b8d762bb9b"
+file = "mods/fabriccrossdimtpfix.pw.toml"
+hash = "4c92c7f3cc143e783ec0e043e2b21e35df7d8703214760f2ba1ca572dd85d9e2"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
@@ -2927,8 +2922,9 @@ hash = "2607f349b362b435f2f9f8670d0024c771bc09f35c623880057da1016bdfa23a"
 metafile = true
 
 [[files]]
-file = "mods/letsjeb-2.0.0.jar"
-hash = "1b4c9f3c8f766cbb646ac1b724646056e2c35c4e1ec79fd8076fa2b9515c11bc"
+file = "mods/letsjeb.pw.toml"
+hash = "1df557ce68ecf2a1ab64c5525557f58c3083f57a00fa843907f635b5d113aeb6"
+metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
@@ -2941,8 +2937,9 @@ hash = "dcc3fe39a49ca9c57057a1e8240c9f35e51c130b1cb6cc8ccca7c9e11878b057"
 metafile = true
 
 [[files]]
-file = "mods/litematica-printer-1.19-3.1.jar"
-hash = "dc51b6337c1f6f3d62e3243a59ae3ee7ea88d8aef8ee9ef46f88fb254bf0c104"
+file = "mods/litematica-printer.pw.toml"
+hash = "c1773d444c3a0839f8d8e65c4d51004909f1c2e75a8c2d573ae656a44fc40a88"
+metafile = true
 
 [[files]]
 file = "mods/litematica-server-paster.pw.toml"
@@ -3100,12 +3097,13 @@ hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
 metafile = true
 
 [[files]]
-file = "mods/mightyarchitect-0.6.1-FABRIC.jar"
-hash = "8ace0eade23a1045cb1b7b0c30ea05d7bb94841e9df68beead289bd7e43ff898"
-
-[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "c75c4b71072a46247bed1bb5b12ec5ff744dfb50290a93b0b60473163bd833ea"
+metafile = true
+
+[[files]]
+file = "mods/minerslunchbox.pw.toml"
+hash = "11c243f84b05d8ac153c682f4105628719e73cb9370c60d371f5f020085f42c5"
 metafile = true
 
 [[files]]
@@ -3374,8 +3372,9 @@ hash = "54533846606595bdf5dbe99a4004e13dee84c6d277c10be58c02bdd7576de2df"
 metafile = true
 
 [[files]]
-file = "mods/sessility-0.2.1.jar"
-hash = "0aece9843af0b126c8fa1d289bfcfb25f674c3f12d8f9a3fb54ae603c83ec0b7"
+file = "mods/sessility.pw.toml"
+hash = "830d8b3268f6379b7746b54ad8d71ee043010b508f78de7c9cba138dbfe22be0"
+metafile = true
 
 [[files]]
 file = "mods/set-world-spawn-point.pw.toml"
@@ -3500,6 +3499,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle-fabric.pw.toml"
 hash = "4ad2590170dc0728e5fb35a68017c613f1a5a67d2b94b35430094b994b9a0fd9"
+metafile = true
+
+[[files]]
+file = "mods/the-mighty-architectury.pw.toml"
+hash = "8798d62150aa63a88f298f488ba4d70417d73613000f8a1ade0fef00dad64e90"
 metafile = true
 
 [[files]]

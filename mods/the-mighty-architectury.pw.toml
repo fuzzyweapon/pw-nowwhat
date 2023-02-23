@@ -1,0 +1,13 @@
+name = "The Mighty Architectury"
+filename = "mightyarchitect-0.6.1-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FDYDUHRw/versions/481crX0h/mightyarchitect-0.6.1-FABRIC.jar"
+hash-format = "sha1"
+hash = "7c9981c5cf68502ad6ada38a331d85d44680a194"
+
+[update]
+[update.modrinth]
+mod-id = "FDYDUHRw"
+version = "481crX0h"

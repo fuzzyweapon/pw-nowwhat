@@ -1,0 +1,13 @@
+name = "Miner's Lunchbox"
+filename = "MinersLunchbox-fabric-1.0.3+mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/erNpBpzY/versions/CioamP2L/MinersLunchbox-fabric-1.0.3%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "f4400ca8318fea50f1b0d2c85c38e2009ab5bdeb"
+
+[update]
+[update.modrinth]
+mod-id = "erNpBpzY"
+version = "CioamP2L"
