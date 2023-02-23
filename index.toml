@@ -3724,12 +3724,12 @@ hash = "da5a1d0bf8ba57b903c6783dde4d60225c94140344d8bbdd7605eb80c3354d20"
 
 [[files]]
 file = "resourcepacks/emissives-for-xalis-enchanted-books.pw.toml"
-hash = "a3ee1561579b3571ce8932b4ad64c6348b10660a52a90934d462504d67905c86"
+hash = "829418b36cfa960f33299f7937f65fe376272ccb5c0b0ccf1a8daa2eb0e08ad6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/emissives-for-xalis-potions.pw.toml"
-hash = "8ce9827732499474c7df5815fe6f5a65aa35345ab686627e385963c58216c80b"
+hash = "19fd3320eba67986e6b351922227bf94ed11687ab46a595da2611e2bc662fa1e"
 metafile = true
 
 [[files]]

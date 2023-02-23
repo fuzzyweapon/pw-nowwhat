@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "10b9d013c77d3b0d5cd36a76d59df37e51905a8f"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Glowing enchanted books."
+
 [update]
 [update.curseforge]
 file-id = 4128169

@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "32484ea081dd65e44f12da7027c1cdd1bbd1af94"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Glowing potions."
+
 [update]
 [update.curseforge]
 file-id = 4132074
