@@ -1,6 +1,6 @@
 name = "xali's Enchanted Books"
 filename = "xali's Enchanted Books v0.11.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

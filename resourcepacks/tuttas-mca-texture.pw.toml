@@ -1,6 +1,6 @@
 name = "Tutta's MCA Texture"
 filename = "Tutta's_MCA_Texture_V1.15 - 1.19+.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

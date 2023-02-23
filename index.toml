@@ -3724,25 +3724,25 @@ hash = "da5a1d0bf8ba57b903c6783dde4d60225c94140344d8bbdd7605eb80c3354d20"
 
 [[files]]
 file = "resourcepacks/emissives-for-xalis-enchanted-books.pw.toml"
-hash = "bf1d754754ebe0ee8d6d989ff49a74e40285f1b481eff934da4a5b81b8de6045"
+hash = "a3ee1561579b3571ce8932b4ad64c6348b10660a52a90934d462504d67905c86"
 metafile = true
 
 [[files]]
 file = "resourcepacks/emissives-for-xalis-potions.pw.toml"
-hash = "18ef7c1082ab2850586e22cc402bda43711b30812b944a3c4c44d48b4a588e14"
+hash = "8ce9827732499474c7df5815fe6f5a65aa35345ab686627e385963c58216c80b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/tuttas-mca-texture.pw.toml"
-hash = "215685b7d18d9d43b9428d2e78b52757fc1ddabae4ed4f45739de6d786abffdd"
+hash = "ccb1f517cf6737612cc13e76ac13f00faa8c61ae0f2fbfb117a4fee63af589e3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "5e519c2da2625ee5a07353913fdade26bce8eff287341f8a997d228b1477bfbd"
+hash = "5d1731a437e698627f55a3ff15cbb48b80f740796a0bd31719c285cf4197f878"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-potions.pw.toml"
-hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
+hash = "faf8b7a7e31896ca09ab5edf917b380c050d4e6c34d0a4f0c00fad11b2c094a9"
 metafile = true

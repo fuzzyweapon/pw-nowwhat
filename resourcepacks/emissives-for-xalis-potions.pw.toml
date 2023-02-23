@@ -1,6 +1,6 @@
 name = "Emissives for xali's Potions"
 filename = "xali's+Potions_EMISSIVE+v.1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
