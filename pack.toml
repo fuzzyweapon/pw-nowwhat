@@ -1,6 +1,6 @@
-name = "mc-NowWhat"
+name = "NowWhat"
 author = "fuzzyweapon"
-version = "1.19.2-0.1.0-FAT"
+version = "1.19.2-0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
