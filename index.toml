@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/misc.xml"
-hash = "06ab2c6e9c2bb8931ac5c74133ec880182a23fb12f2c6e2b81f0aaefbd17449b"
+file = "LaunchServer.bat"
+hash = "8540f80f3631b84285daeae217804da13ecd5027389b22f7c849b5ee076b1004"
 
 [[files]]
-file = ".idea/vcs.xml"
-hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "a845d329dc927d69d623499a923bdf3b77d6854e76e86d9897373d7a57cd1cd4"
+file = "LaunchServer.sh"
+hash = "ffee89b4ef3bb612b9c40597fdd735ac40dea867861d595bc783489caebb87d7"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -2145,6 +2141,18 @@ file = "config/yigd.toml"
 hash = "ef2e8458c21f6dfd51c3ba89e0853b2102d9e3ce8252300d8173d19620385a96"
 
 [[files]]
+file = "envs/dev.nw.env"
+hash = "f73f6fc3ebe37719053f012ee958f5e48cc984e04b96ac90401d86b6a3ae145e"
+
+[[files]]
+file = "envs/nw.env"
+hash = "3b36d6b21469a1ec9a5dd5527bf999cbb8a60ca7674831e52e614d398a36c29a"
+
+[[files]]
+file = "eula.txt"
+hash = "2781615879e6440a58b307d3c9e91b6d9760db6090514b19858f11bce141b077"
+
+[[files]]
 file = "instance.png"
 hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
 
@@ -3639,6 +3647,14 @@ hash = "a4ed395ffbaa758f6b20cb9f2513189bc803c6998091bff839d9dbdeb8c4ad75"
 metafile = true
 
 [[files]]
+file = "nw.bat"
+hash = "86e1c4a555e745487f0040f6840222d590828cb348b7888bcbd7d94aa280774e"
+
+[[files]]
+file = "nw.sh"
+hash = "bd6f582e94cd803e6a4c36e55e3ab8f852829dc0f22ca16a9bb22694ad9a9279"
+
+[[files]]
 file = "resourcepacks/emissives-for-xalis-enchanted-books.pw.toml"
 hash = "829418b36cfa960f33299f7937f65fe376272ccb5c0b0ccf1a8daa2eb0e08ad6"
 metafile = true
@@ -3662,3 +3678,15 @@ metafile = true
 file = "resourcepacks/xalis-potions.pw.toml"
 hash = "faf8b7a7e31896ca09ab5edf917b380c050d4e6c34d0a4f0c00fad11b2c094a9"
 metafile = true
+
+[[files]]
+file = "server.json"
+hash = "0b605ae8d8b159126eaf4c5ecb9556c15a93bfc85b80646cd6e1d46142ee4f52"
+
+[[files]]
+file = "server.png"
+hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
+
+[[files]]
+file = "server.properties"
+hash = "84be848f6af65319923999676e7b43fe64a7ce311c3a232c02467bf631d0c7c5"
