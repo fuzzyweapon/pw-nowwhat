@@ -1,0 +1,14 @@
+{
+  "name": "NowWhat",
+  "pack": "NowWhat",
+  "packId": 0,
+  "version": "0.0.2",
+  "isPatchedForLog4Shell": true,
+  "javaVersion": {
+    "component": "java-runtime-gamma",
+    "majorVersion": 17
+  },
+  "isDev": true,
+  "mods": [],
+  "ignoredUpdates": []
+}
