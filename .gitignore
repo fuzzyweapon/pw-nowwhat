@@ -128,3 +128,5 @@ gradle-app.setting
 
 ### Gradle Patch ###
 **/build/
+
+packwiz-installer-bootstrap.jar
