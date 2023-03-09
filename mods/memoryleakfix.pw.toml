@@ -1,13 +1,13 @@
 name = "MemoryLeakFix"
-filename = "memoryleakfix-1.19.1-0.7.0.jar"
+filename = "memoryleakfix-1.19.3-0.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9ef7b93df46b599f96d8c0dba32753373e5e8a1a"
+hash = "9fae1093c64b47d6b97ee825ed3d9b725490700c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3908979
+file-id = 4147605
 project-id = 627566

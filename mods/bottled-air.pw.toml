@@ -1,13 +1,13 @@
 name = "Bottled Air"
-filename = "bottledair-1.19.2-2.0.jar"
+filename = "bottledair-1.19.2-2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bbb30374281c3a59a37c29f995939fd16f039e00"
+hash = "915d0bb0926c2f535333ac104fe968107fbcdb9c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4329282
+file-id = 4397705
 project-id = 514444

@@ -1,13 +1,13 @@
 name = "MC Dungeons Artifacts"
-filename = "mcdar-1.5.2-1.19.jar"
+filename = "mcdar-1.5.3-1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ad5256ad320bac3a2a656660152d2bf4799fc37b"
+hash = "ee682387f31a82d6a32804001a3f271650392423"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3964521
+file-id = 4407903
 project-id = 476788
