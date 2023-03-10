@@ -129,4 +129,8 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
-packwiz-installer-bootstrap.jar
+### shellspec ###
+/.shellspec-local
+/.shellspec-quick.log
+/out/test/report/
+/out/test/coverage/

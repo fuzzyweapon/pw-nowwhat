@@ -2153,6 +2153,10 @@ file = "eula.txt"
 hash = "2781615879e6440a58b307d3c9e91b6d9760db6090514b19858f11bce141b077"
 
 [[files]]
+file = "getoptions.sh"
+hash = "f5ca9d9ab5da94c5f6d330933557975ad55c1f83d28549abf4f8e0df4960f209"
+
+[[files]]
 file = "instance.png"
 hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
 
@@ -3647,12 +3651,8 @@ hash = "a4ed395ffbaa758f6b20cb9f2513189bc803c6998091bff839d9dbdeb8c4ad75"
 metafile = true
 
 [[files]]
-file = "nw.bat"
-hash = "86e1c4a555e745487f0040f6840222d590828cb348b7888bcbd7d94aa280774e"
-
-[[files]]
 file = "nw.sh"
-hash = "bd6f582e94cd803e6a4c36e55e3ab8f852829dc0f22ca16a9bb22694ad9a9279"
+hash = "6e9ca5766dc36f1cf330775c15f6339fc4a0a25917decd2902f773cbe5366e99"
 
 [[files]]
 file = "resourcepacks/emissives-for-xalis-enchanted-books.pw.toml"
