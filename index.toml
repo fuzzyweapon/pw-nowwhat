@@ -2141,12 +2141,12 @@ file = "config/yigd.toml"
 hash = "ef2e8458c21f6dfd51c3ba89e0853b2102d9e3ce8252300d8173d19620385a96"
 
 [[files]]
-file = "envs/dev.nw.env"
+file = "envs/dev@localhost.env"
 hash = "f73f6fc3ebe37719053f012ee958f5e48cc984e04b96ac90401d86b6a3ae145e"
 
 [[files]]
-file = "envs/nw.env"
-hash = "3b36d6b21469a1ec9a5dd5527bf999cbb8a60ca7674831e52e614d398a36c29a"
+file = "envs/live@now-what.env"
+hash = "b217305054ed45d36374ea276128b81e0d56a529a3d6600b460fd26743d147f8"
 
 [[files]]
 file = "eula.txt"
