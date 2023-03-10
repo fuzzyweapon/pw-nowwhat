@@ -2150,7 +2150,7 @@ hash = "3b36d6b21469a1ec9a5dd5527bf999cbb8a60ca7674831e52e614d398a36c29a"
 
 [[files]]
 file = "eula.txt"
-hash = "2781615879e6440a58b307d3c9e91b6d9760db6090514b19858f11bce141b077"
+hash = "e1e0ff94d38a45eaa6798acc5599e45f9c6b47da6d304376eaa7ca1f7da4de40"
 
 [[files]]
 file = "getoptions.sh"
