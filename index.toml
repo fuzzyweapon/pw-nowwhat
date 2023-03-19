@@ -3652,7 +3652,7 @@ metafile = true
 
 [[files]]
 file = "nw.sh"
-hash = "afa00e1459d941fce30a8c33f6349142a7732be4dfb535fdf4fcb9359fbf15ae"
+hash = "fa1c2979adfd33d8df1ac13c955bade7aae358025abdbf72395c1def29905044"
 
 [[files]]
 file = "resourcepacks/emissives-for-xalis-enchanted-books.pw.toml"

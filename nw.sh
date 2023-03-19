@@ -278,6 +278,10 @@ info "Printing Java version, if the Java version doesn't show below, your Java p
 $JAVAPATH -version && echo
 
 PW_INSTALLER="https:/github.com/packwiz/packwiz-installer/releases/latest/download/packwiz-installer.jar"
+PACK_FILE="pack.toml"
+MEMORY="1G"
+JVMARGS=""
+PW_INSTALLER_BOOTSTRAP="packwiz-installer-bootstrap.jar"
 LAUNCH_ARGS="--bootstrap-update-url $PW_INSTALLER -s $SIDE $PACK_HOST/$PACK_FILE"
 info "Launching $PW_INSTALLER_BOOTSTRAP with '$MEMORY' max memory, jvm args '$JVMARGS' and arguments '$LAUNCH_ARGS'"
 
