@@ -284,6 +284,7 @@ JVMARGS=""
 PW_INSTALLER_BOOTSTRAP="packwiz-installer-bootstrap.jar"
 LAUNCH_ARGS="--bootstrap-update-url $PW_INSTALLER -s $SIDE $PACK_HOST/$PACK_FILE"
 info "Launching $PW_INSTALLER_BOOTSTRAP with '$MEMORY' max memory, jvm args '$JVMARGS' and arguments '$LAUNCH_ARGS'"
+info "cmd: "$JAVAPATH" -Xmx$MEMORY $JVMARGS -jar "$PW_INSTALLER_BOOTSTRAP" $LAUNCH_ARGS"
 
 # shellcheck disable=SC2086
 "$JAVAPATH" -Xmx$MEMORY $JVMARGS -jar "$PW_INSTALLER_BOOTSTRAP" $LAUNCH_ARGS
