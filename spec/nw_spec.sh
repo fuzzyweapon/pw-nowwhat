@@ -267,7 +267,7 @@ Describe 'nw.sh'
       The status should be a success
       The variable ENV_TARGET should equal "env"
       The variable PACK_HOST should equal ""
-      The variable IS_SERVER_PACK should equal 0
+      The variable SIDE should equal "client"
       The output should equal ""
       The stderr should equal ""
     End
@@ -277,7 +277,7 @@ Describe 'nw.sh'
       The status should be a success
       The variable ENV_TARGET should be undefined
       The variable PACK_HOST should equal "host"
-      The variable IS_SERVER_PACK should equal 0
+      The variable SIDE should equal "client"
       The output should equal ""
       The stderr should equal ""
     End
@@ -287,7 +287,7 @@ Describe 'nw.sh'
       The status should be a success
       The variable ENV_TARGET should be undefined
       The variable PACK_HOST should equal "host:1234"
-      The variable IS_SERVER_PACK should equal 0
+      The variable SIDE should equal "client"
       The output should equal ""
       The stderr should equal ""
     End
@@ -297,7 +297,7 @@ Describe 'nw.sh'
       The status should be a success
       The variable ENV_TARGET should equal "env"
       The variable PACK_HOST should equal "host"
-      The variable IS_SERVER_PACK should equal 0
+      The variable SIDE should equal "client"
       The output should equal ""
       The stderr should equal ""
     End
@@ -307,7 +307,7 @@ Describe 'nw.sh'
       The status should be a success
       The variable ENV_TARGET should equal "env"
       The variable PACK_HOST should equal "host"
-      The variable IS_SERVER_PACK should equal 1
+      The variable SIDE should equal "server"
       The output should equal ""
       The stderr should equal ""
     End

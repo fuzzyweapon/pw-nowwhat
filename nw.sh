@@ -136,9 +136,9 @@ function parse_target_arg {
   fi
 
   if [ "${ENV_SEGMENT#*.}" = "server" ]; then
-    IS_SERVER_PACK=1
+    SIDE=server
   else
-    IS_SERVER_PACK=0
+    SIDE=client
   fi
 
   # AFTER @ || NONE OF IT
