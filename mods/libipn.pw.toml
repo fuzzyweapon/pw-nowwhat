@@ -1,18 +1,18 @@
 name = "libIPN"
-filename = "libIPN-fabric-1.19-2.0.2.jar"
+filename = "libIPN-fabric-1.19-2.0.3.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "a635a001ed6b22da929696baa7e2c657b5416654"
+hash = "4bfce86231f6eee285384b725580db4d925f6378"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "Dependency | Inventory Profiles Next support library"
 
 [update]
 [update.curseforge]
-file-id = 4370451
+file-id = 4437537
 project-id = 679177
+
+[option]
+optional = true
+description = "Dependency | Inventory Profiles Next support library"
+default = true

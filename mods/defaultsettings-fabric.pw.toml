@@ -1,18 +1,18 @@
 name = "DefaultSettings Fabric/Quilt"
-filename = "DefaultSettings-1.19.x-3.5.2.jar"
+filename = "DefaultSettings-1.19.x-4.0.5-Fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "9329777cbb85a904f331c9ff34b1b05c827a8d8a"
+hash = "d2957d0bf7ab13d744cd1a213c0ff807af6b4bdf"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "Helps preserve user modpack settings"
 
 [update]
 [update.curseforge]
-file-id = 3904211
+file-id = 4439551
 project-id = 451860
+
+[option]
+optional = true
+description = "Helps preserve user modpack settings"
+default = true

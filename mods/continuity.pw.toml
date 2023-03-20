@@ -1,18 +1,18 @@
 name = "Continuity"
-filename = "continuity-2.0.1+1.19.jar"
+filename = "continuity-2.0.2+1.19.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "d82700772659f65560202f1cbd0e744007b21a75"
+hash = "b7f4060c66eee13fa1385da89090560de30358e1"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "Efficient connected textures!"
 
 [update]
 [update.curseforge]
-file-id = 3927270
+file-id = 4441032
 project-id = 531351
+
+[option]
+optional = true
+description = "Efficient connected textures!"
+default = true

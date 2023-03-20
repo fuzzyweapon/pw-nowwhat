@@ -1,18 +1,18 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_23.1.0_Fabric_1.19.1.jar"
+filename = "Xaeros_Minimap_23.3.1_Fabric_1.19.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "c3ffc825c02f744f7f6f1fa227214b5c81090563"
+hash = "227d305a2906eed74e7de9477995db651af20819"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "A mini map for the HUD"
 
 [update]
 [update.curseforge]
-file-id = 4381123
+file-id = 4440695
 project-id = 263420
+
+[option]
+optional = true
+description = "A mini map for the HUD"
+default = true

@@ -1,18 +1,18 @@
 name = "Just Enough Items (JEI)"
-filename = "jei-1.19.2-fabric-11.5.2.1007.jar"
+filename = "jei-1.19.2-fabric-11.6.0.1013.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0046df5c28a6b981e57f815a8684769b8efb7109"
+hash = "1a8662e9271405504f60afd6572133c7073ceaa4"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "View items and recipes in game"
 
 [update]
 [update.curseforge]
-file-id = 4354614
+file-id = 4434396
 project-id = 238222
+
+[option]
+optional = true
+description = "View items and recipes in game"
+default = true

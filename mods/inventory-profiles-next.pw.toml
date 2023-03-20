@@ -1,18 +1,18 @@
 name = "Inventory Profiles Next"
-filename = "InventoryProfilesNext-fabric-1.19-1.9.2.jar"
+filename = "InventoryProfilesNext-fabric-1.19-1.9.3.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "418e3ee6bdd33efa22e9ab9c3c8d910fc16dc09c"
+hash = "d82d37777221edb0a1d4489de299005b9377ff92"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "Inventory management such as sorting, moving only inventory that matches what is in the chest inventory, locked slots, throw all, gear sets, and more"
 
 [update]
 [update.curseforge]
-file-id = 4370583
+file-id = 4437620
 project-id = 495267
+
+[option]
+optional = true
+description = "Inventory management such as sorting, moving only inventory that matches what is in the chest inventory, locked slots, throw all, gear sets, and more"
+default = true

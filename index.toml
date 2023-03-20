@@ -2162,7 +2162,7 @@ hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "5e3b8dd679cd07555988797a8d1557cdd8d5726b307b9d74baa9e2e025ceb4dd"
+hash = "1222c8fbb7f7b150b4efeed0ef07df4ea88b8f35b28c7c64fe008b23a5f2c9bb"
 metafile = true
 
 [[files]]
@@ -2227,7 +2227,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "05190346d8cd9d0144dfeac6c68f766fb9f34e0b916483d5360b4883b60b282d"
+hash = "c03a4530cf7645c69c164d1c6808e3d576b6d807a41569ff0c3619e9458da5c4"
 metafile = true
 
 [[files]]
@@ -2237,7 +2237,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "c783357f195fe4e361781bcc72fe5ef47ca77c9d8b6ef08a043807aacb9716e3"
+hash = "ccfa776ceb18c8682c928cc2aa3dc9aafac0d467667f09b8f2d15694f65a79ec"
 metafile = true
 
 [[files]]
@@ -2257,7 +2257,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "000826ff996cb096dd76c2b7fed356dc1d5f9ab06461c86fbdfc4b895214be3f"
+hash = "38269054f8f43ef1a20e9c99e4d0c83801d773283e1aca3a12cd5ab2c80ea076"
 metafile = true
 
 [[files]]
@@ -2267,7 +2267,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7e3159568f14515d9a1121b94c4b103c426db24c48e358741895ea09813da09e"
+hash = "9c802a681377e421cabb2dee43e00afa264c1f6742f618fb73002a982c7019b2"
 metafile = true
 
 [[files]]
@@ -2327,7 +2327,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "b22fb603eab45ffe52a5ef7d44835cb41590646adecfe467ddd91d66f6570588"
+hash = "802417d1c24f779c3fda82006012747309b11038c37d5c2f64a96257ad88dfa3"
 metafile = true
 
 [[files]]
@@ -2472,7 +2472,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ccc1d0a939761a51fe3117c2e18c817eec3b8fbf9dc85946ba9bba4fac7a4a96"
+hash = "98b174f93e1b252b0886521a02f36c04833d63ab832f2008d92d2e7d79c3ed18"
 metafile = true
 
 [[files]]
@@ -2497,7 +2497,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "6706fc92deeb3f00d1a47cf1d590fff20e206a3e5dc3e3f8c7d949fb7f538754"
+hash = "6a88ce252e4cbb797ec45034dcef4bf9dccc40c5a12a14653c167c6b7120bfbf"
 metafile = true
 
 [[files]]
@@ -2557,12 +2557,12 @@ metafile = true
 
 [[files]]
 file = "mods/defaultsettings-fabric.pw.toml"
-hash = "5708785d3d4e4a8f5bd6558096cd66ec7695ae1090e7c38a7d9993187a9d5cb8"
+hash = "8e24fb546f6a127ccd3c2c11c44dc67f531dd7493787a937c97473d2f332ceb0"
 metafile = true
 
 [[files]]
 file = "mods/deftulib.pw.toml"
-hash = "f06d03f29ed627dfac96931b292ddfc3c361745100a8d14f7f891d8e82c3e7b1"
+hash = "b2048ec599e05292a30c65a2ac007c82c128858f4df259c698cae0d32e4023a3"
 metafile = true
 
 [[files]]
@@ -2592,7 +2592,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "4a04c6840fab6afbcfc02630fb5df5ab4c9cc8f2166635675bae66e964ce4e59"
+hash = "c042b77aa81c09c8071bf3ea0a0a3dc40a355e519a5775f9cc086afbe9bc60f4"
 metafile = true
 
 [[files]]
@@ -2692,7 +2692,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "617ad00be9c1d9df4cd143bae57279e63d744e3441774e633d421ac5daccc955"
+hash = "137389e46b618054ded159cfc1698bd45526eba12b49a1f927e9c1464c48bcf5"
 metafile = true
 
 [[files]]
@@ -2702,7 +2702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "2a6f76ef73860e2590543341c5f81b3c43f927c9f0b26c21ff9c0b9698554609"
+hash = "dbc3fa3952bac5f2201fd3049cabb5d55e119421e0c94d55dc0e8125efcf7f0a"
 metafile = true
 
 [[files]]
@@ -2732,7 +2732,7 @@ metafile = true
 
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
-hash = "bf7ced4503e0886e6f3f1f679e9d5435cb6bde7a28c016293e674243e48715b6"
+hash = "8f1d011e4b2894b427ba76919556310f7e06b2a6063ecc510365995c5b1f908b"
 metafile = true
 
 [[files]]
@@ -2807,7 +2807,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "9cc7a6717f214c350f79d2974e6b48a97e77b705f3f2cda0507b1a4c89764155"
+hash = "e3cb9bf5ad9c3c932499f7e5a582139b285b341e8269d1fc72f7bcdf7a225ba8"
 metafile = true
 
 [[files]]
@@ -2847,7 +2847,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "f933d031652e1c9638187e88aa4b47e736c52f22021ac0cb6591703da8e1cc6b"
+hash = "25bec58732be922ba132680274d123b84dfa9c05de2c9768229a4a40874c504b"
 metafile = true
 
 [[files]]
@@ -2857,7 +2857,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a084d7531dc6b620a5e93f2cae77847b6bb6652e8bf9654dc98b4fa692bf77a1"
+hash = "6badcf3cae085842a9cdc5187d30320db687c9b4f741227b447c917034794a5b"
 metafile = true
 
 [[files]]
@@ -2872,12 +2872,12 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "0dc52305f26de467ef2fd559915d49f495699f560b14f9d0e6cfcfd3f096284a"
+hash = "a57fc3a52bdc6806af02b604defad6e85f8fd54d14fba5482810485f10f69395"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "55b9bb484108e7bc0773e440af369393626f1ecf8e499f938b208cf6f3df2c77"
+hash = "8cd8efa283704967d31332f10ef446867ebe7d1d534ba554e117bf326d77a22a"
 metafile = true
 
 [[files]]
@@ -2902,7 +2902,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs-fabric.pw.toml"
-hash = "6b562b8c2e670f9544b066972f81505c13e2088d2ee567742ba21be49cebd975"
+hash = "c0404b111a2fdefb3ece6aff1d268e6e22f3025711c5c3f4007da92da18724e3"
 metafile = true
 
 [[files]]
@@ -2952,7 +2952,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "ce98ca48d08cfeb899c4e21a67403f010730445830f05e5a08befb95403d0db8"
+hash = "53fff73a4ccc80cf92ed582f031449df6cc0aaf4afa2617409fa9c045612ac96"
 metafile = true
 
 [[files]]
@@ -2972,12 +2972,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "75c2c9732f980f22c774856f93fbea35a6a7f80a98af136f173956abc6cf5665"
+hash = "d969b4fa4fbb0b33aecaf62de481dcb707517fbe27c07e8ea2bf468a6d2b0e68"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a317e0de4cd8515129f88831f220e733cbd50b7bcef4c3213d8748b42b2b0e9e"
+hash = "98921d208121d9da3bfb0962812321b3c64608e1f857248c96273bfd09db0f86"
 metafile = true
 
 [[files]]
@@ -3002,12 +3002,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "46abacb059a2af9fe270f2be6c714ac7d5eeee71b4a9fa2f20ac047438a12cab"
+hash = "b46bb1cca929a49da6fcf7e6ac246b8e8c4f0518ad201a9b8d376a44b6bc3bb8"
 metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "9bd46b5d5a2346aaa9da4cef1b5c5683d8621e8d1d89d2634e51614f3a7ca093"
+hash = "e40a365b989a0d40a2e913aa534bd97bd0232cb82f0e56a2e6392cbff95529ae"
 metafile = true
 
 [[files]]
@@ -3032,12 +3032,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "cabcb70039cecbc8489c034c4b8379c8766c49e175aa4464ccb5612fb17c7e78"
+hash = "e5fd62acfa586a4066ba2ba88b3de175ebfca4f9aea9beb7beb63a0076c88301"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "50d92251e3359b1d63e1ddcfeff1625ba4159a408b246cb55b4af4aa213a61df"
+hash = "eb4071fdeee678fce838bc85391981b0d66a558a30ab15b12890e6d8d842cda7"
 metafile = true
 
 [[files]]
@@ -3067,7 +3067,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdw.pw.toml"
-hash = "6a4315ff786c6bdb7e1535432d68a3139d4cd41c3575f80fe529bdd207effd71"
+hash = "51b2a066b23ec878b694d0f90a2c997a4e24ca1fac840a927a7297643010e66e"
 metafile = true
 
 [[files]]
@@ -3097,7 +3097,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "f114ea9de4d46ddcf1de503bee525ffae31c93323bf85caf3376dc5dfb7bc58d"
+hash = "6dbabf2b471330d1067b22317b277c6cdbba600b56df51c5ccf6a158b8a71cc5"
 metafile = true
 
 [[files]]
@@ -3122,7 +3122,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "c75c4b71072a46247bed1bb5b12ec5ff744dfb50290a93b0b60473163bd833ea"
+hash = "4610d249c3ee274fc579e3d507e78249777d34a231eb1873f297029f866d7a67"
 metafile = true
 
 [[files]]
@@ -3137,7 +3137,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ebe898374dc5c9e7200b167b8a06c005f7123c625f9d4621821fbe40d588ac32"
+hash = "d91ac0ae70f7fa4eba26ee6517d4604500670546b57b659a24a6689f6de266e1"
 metafile = true
 
 [[files]]
@@ -3162,7 +3162,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "3ddd6bff3a22289157c810ad9621cccdeb2e364259c50ea852d9cc94cf709812"
+hash = "f373bdac91381ce6371eff5d6a7d1178fd7accfa0fb240d6dce042fb8b2cf016"
 metafile = true
 
 [[files]]
@@ -3202,7 +3202,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "9e538cf089ca697fdd2e932f36857651d392e6f00debf8cce24508f3ce744b63"
+hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
 metafile = true
 
 [[files]]
@@ -3262,7 +3262,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "e3b51e4761603dbb0b2ff49a79f566ccd3840af0a8988bcda0a1aa42dbb3b7b1"
+hash = "2acb6aabee96439a924c9bd9809d0ca471a9efa336e3c2d318b132b2e5dea7aa"
 metafile = true
 
 [[files]]
@@ -3342,17 +3342,17 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "f13f892192186e7f84f3eaaec7bbd6a9b1cb670fd27fceb10b9e534bec58f7cf"
+hash = "da3910d06058dec9342bfb48adbc371042b5399aa2c7d7d6df00204160eebad4"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "09d595a779813b05bb98d92132b6521a328cc31e467318406b843fbe508e0b3f"
+hash = "c1318b2e17bc72fe0a1a9d1dcc778f2e34ab27e9093c77d78f4314d0edcec5ec"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "efed158b58d5ba64a5dd90911985c451f40bbe9cdf74728db3d443d5133d587a"
+hash = "b7e66aa65848e4a44734943b17cacf37c31d9b4f3e1b803f4f70beae039feac7"
 metafile = true
 
 [[files]]
@@ -3387,7 +3387,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e1a41c2b6fa9008ff67b7e01764c644261ec8140c9bbac0d6cd519c91523f270"
+hash = "9c7e81151e2ad6ce77cce1f9790192f98d8ae821def78e9ddc20b09252a65377"
 metafile = true
 
 [[files]]
@@ -3432,7 +3432,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "e86976309b1b9462d72f57a4bda9e627cb8e1cfff5f6abc81ee57770d1b226e9"
+hash = "03b098b00391f8dd95a73d745d38018b8edc7c37dea4deb8d901cebb9d01b5ba"
 metafile = true
 
 [[files]]
@@ -3452,7 +3452,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "1dfdc8e9c7a6061f82412de9eb7369fb4921ba9164699b5cb29adee583b7caf4"
+hash = "7d7d26ead96e856fede0ece522cb30538168ee3167116f75b8cae50f7ade02d0"
 metafile = true
 
 [[files]]
@@ -3497,7 +3497,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f2a171e88b560ebdd271df77d21ce6543ffa479cb51b72a188ebc461a5c5d09e"
+hash = "12c9b670add5aa30e76ceef64cdcbf6a4691c7fbaa4f47b7fd745eda7b1ed35a"
 metafile = true
 
 [[files]]
@@ -3552,7 +3552,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "052719cea50d8d01360372209464bc9f0c2fe48d1930a501add7800f282841ff"
+hash = "f1f8d53b2720880c0902b975b5a2a817a5be78a740f83cdc35d2587c504a0025"
 metafile = true
 
 [[files]]
@@ -3577,12 +3577,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanityslots.pw.toml"
-hash = "aaf65877574c35f7a348014ddfb77b55fc1b88a089652fac2d8500b407de6555"
+hash = "b9875cf1ac707ff0e35bd4964b803525e4f59e2222437aad97c12828ba71285a"
 metafile = true
 
 [[files]]
 file = "mods/villager-names-fabric.pw.toml"
-hash = "f625fb50f6b023ab4be1cd9b811d0354a4415f40dccf1f8737bab8295b5cff3b"
+hash = "06b957fcab394a16d9249b6b521cf7662e545c1c67bb9b3690fb802396c9a0c7"
 metafile = true
 
 [[files]]
@@ -3607,12 +3607,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1bcd1a63fbada9dceb1832bc0e2221254ff7624a7a70ff7c4b33c8b200265a6f"
+hash = "3a676051be21168cfe2cdbffb6dd0a52a987ecba20ca2ed90165aee379d0c036"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "97fd32ed349f6efbbf7fbd0c1a5c034ecb4bc8bc88afa7cd9300961c0cac8976"
+hash = "b8f54c1b4a6f17d355827ef9e329ec3de0927e3be17bcb3243ccb39770265766"
 metafile = true
 
 [[files]]
@@ -3637,7 +3637,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.pw.toml"
-hash = "86cea403f1d0054bcd47aed8723d608fbb6b627722fcfb4f8c7dfc1490ceb8c9"
+hash = "53d39e1a673ca6059ca9da17125c74e91f7ee32ff0400cfc4295f1a4703c64a0"
 metafile = true
 
 [[files]]
