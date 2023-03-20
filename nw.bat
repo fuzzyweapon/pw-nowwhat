@@ -1,1 +1,1 @@
-java -jar packwiz-installer-bootstrap.jar --bootstrap-update-url https://github.com/fuzzyweapon/packwiz-installer/releases/latest/download/packwiz-installer.jar -s client now-what.duckdns.org:8080
+java -jar packwiz-installer-bootstrap.jar --bootstrap-update-url https://api.github.com/repos/fuzzyweapon/packwiz-installer/releases/latest -s client http://now-what.duckdns.org:8080/pack.toml
