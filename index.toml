@@ -3602,7 +3602,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "76eb47b398a7abef621729858f9b74e1693b287f3e80456724218e9c336059cd"
+hash = "301ab98ae8b9137684f09e3b6ec8e91468a3daabe77d2bb257f8fdaabb26fba0"
 metafile = true
 
 [[files]]
