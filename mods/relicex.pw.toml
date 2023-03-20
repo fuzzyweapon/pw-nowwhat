@@ -1,13 +1,13 @@
 name = "RelicEx"
-filename = "relicex-3.3.0+1.19.2.jar"
+filename = "relicex-3.3.1+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e4e190aadec69d014f7e90ecb3d14bbd9ef193e9"
+hash = "27af9a756626878eae867f133824c252e9bec006"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4421199
+file-id = 4433715
 project-id = 439281
