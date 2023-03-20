@@ -2506,6 +2506,11 @@ hash = "f9cad82f631c314568ddda4455ec597be85017a69f52617721dec34435852753"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
+metafile = true
+
+[[files]]
 file = "mods/crashbrander.pw.toml"
 hash = "7c04d6061a7287b906a723e54a2821576a1f6ef23aa0dc4170512e2c789cafb4"
 metafile = true
