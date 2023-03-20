@@ -406,7 +406,7 @@ hash = "4894ce8a0191ef9069354f5ea07be80499990904cdc6cc6cf74c16babf343454"
 
 [[files]]
 file = "config/MythicMountsConfig.json"
-hash = "9e4c155e3a7ca0d78f58467dd39c0d433fcca96d583b3480ee15b5da64f3e251"
+hash = "76664c7cc4e9bcd29ca6459604244a0854838349268e7224935387824f33cc67"
 
 [[files]]
 file = "config/VillagerNames/customnames.txt"
@@ -958,7 +958,7 @@ hash = "a99d5f5ce8a2803fe33631cf9d9ba3846954c8a857e9b39adf4975cd3e47b85b"
 
 [[files]]
 file = "config/croptopia/croptopia.conf"
-hash = "e2acf56333fe4ea7be9bf4b9aaee87fccc69fe4a89f5ad8f83073418d8051fc4"
+hash = "6baaae75d838430b59f116b281f9ad67420a86cc2b01dbc36495a5695ba0f6c2"
 
 [[files]]
 file = "config/crowdin.txt"
@@ -1758,7 +1758,7 @@ hash = "86e3591bc0bfde4176c1b9557cd2faa864321bb82c02201d71cdaa575eacfcb8"
 
 [[files]]
 file = "config/pickblockpro/overrides.json"
-hash = "459dd9e37e8f3a9022ae3842965ee5b8b874f6d143f9c164222547ed3bc10264"
+hash = "617cecf76126240800305703fde889790efb6d7253b7dedc8775f3ced6fd66eb"
 
 [[files]]
 file = "config/pickupnotifier-client.toml"
