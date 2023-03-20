@@ -3651,6 +3651,14 @@ hash = "a4ed395ffbaa758f6b20cb9f2513189bc803c6998091bff839d9dbdeb8c4ad75"
 metafile = true
 
 [[files]]
+file = "nw.bat"
+hash = "07030c19aaa80255c14c39b5a9f0419260652b2a7ddc213d483f7f6a9b3284f0"
+
+[[files]]
+file = "nw.server.bat"
+hash = "86ff1449d7566c9137613cc7daab3623270668a0eef40e402a0bb012bb71b716"
+
+[[files]]
 file = "nw.sh"
 hash = "e8a95d59ec24bb3a47ccce1210944e482861589b3b01156f5d6fb6a73da145fd"
 
