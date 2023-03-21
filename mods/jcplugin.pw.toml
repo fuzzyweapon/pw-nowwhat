@@ -1,0 +1,13 @@
+name = "JCPlugin"
+filename = "JCPlugin-1.16.x-1.19.x-4.0.4-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68a0d09e7b46582b4840da05b9e6f2afc5247f32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4431125
+project-id = 659192

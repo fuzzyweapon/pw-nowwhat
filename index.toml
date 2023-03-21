@@ -2861,6 +2861,11 @@ hash = "07440b33c32e9b1c3b84ee11ed64ffac2d321ff15cb58a869195995316974677"
 metafile = true
 
 [[files]]
+file = "mods/jcplugin.pw.toml"
+hash = "193e7b2876b782bd75f33c6297961fa3b89742df6cfba94dd4b6327352e56cd1"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "6badcf3cae085842a9cdc5187d30320db687c9b4f741227b447c917034794a5b"
 metafile = true
