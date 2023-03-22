@@ -1,13 +1,13 @@
 name = "Biomes in Jars [Fabric]"
-filename = "biomesinjars_fabric_1.1.2_MC_1.19-1.19.2.jar"
+filename = "biomesinjars_fabric_1.1.1_MC_1.19-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bfc38f143d028776200685b551fdfc8b5cb9a59f"
+hash = "21ef2701931bba50bf32f8b562e9195e68042071"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4380804
+file-id = 4019362
 project-id = 678860
