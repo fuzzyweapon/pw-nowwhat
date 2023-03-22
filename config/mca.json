@@ -18,10 +18,10 @@
   "villagerRestockNotification": true,
   "showNotificationsAsChat": false,
   "heartsToBeConsideredAsFriend": 40,
-  "infectionChance": 5,
+  "zombieBiteInfectionChance": 0.05,
   "infectionChanceDecreasePerLevel": 0.25,
   "infectionTime": 72000,
-  "chanceToHaveTwins": 2,
+  "twinBabyChance": 0.02,
   "marriageHeartsRequirement": 100.0,
   "engagementHeartsRequirement": 50.0,
   "bouquetHeartsRequirement": 10.0,
@@ -33,7 +33,7 @@
   "childInitialHearts": 100,
   "greetHeartsThreshold": 75,
   "greetAfterDays": 1,
-  "immigrantChance": 20,
+  "geneticImmigrantChance": 0.2,
   "traitChance": 0.25,
   "traitInheritChance": 0.5,
   "bypassTraitRestrictions": false,
@@ -47,6 +47,7 @@
   "maleVillagerWidthFactor": 1.0,
   "femaleVillagerWidthFactor": 0.95,
   "showNameTags": true,
+  "nameTagDistance": 5.0,
   "useMCAVoices": true,
   "useVanillaVoices": false,
   "interactionChanceFatigue": 1.0,
@@ -58,18 +59,20 @@
   "coloredHairChance": 0.02,
   "heartsRequiredToAutoSpawnGravestone": 10,
   "enableVillagerChatAI": false,
-  "guardSpawnRate": 6,
+  "villagerChatAIIntelligence": 4,
+  "guardSpawnFraction": 0.175,
   "taxesFactor": 0.5,
   "taxSeason": 168000,
-  "marriageChance": 5,
-  "adventurerAtInnChance": 5,
-  "childrenChance": 5,
+  "marriageChancePerMinute": 0.05,
+  "adventurerAtInnChancePerMinute": 0.05,
+  "adventurerStayTime": 48000,
+  "villagerProcreationChancePerMinute": 0.05,
   "bountyHunterInterval": 48000,
   "bountyHunterHeartsInterval": -150,
   "innSpawnsAdventurers": true,
   "innSpawnsCultists": true,
   "innSpawnsWanderingTraders": true,
-  "percentageOfVanillaVillages": 0,
+  "fractionOfVanillaVillages": 0.0,
   "minimumBuildingsToBeConsideredAVillage": 3,
   "villagerDimensionBlacklist": [],
   "allowedSpawnReasons": [
@@ -161,7 +164,7 @@
     "minecraft:jungle_pyramid",
     "minecraft:pillager_outpost"
   ],
-  "destinyLocations": [
+  "destinySpawnLocations": [
     "somewhere",
     "minecraft:shipwreck_beached",
     "minecraft:village_desert",
@@ -171,8 +174,8 @@
     "minecraft:village_savanna"
   ],
   "destinyLocationsToTranslationMap": {
-    "minecraft:shipwreck_beached": "destiny.story.sailing",
-    "default": "destiny.story.travelling"
+    "default": "destiny.story.travelling",
+    "minecraft:shipwreck_beached": "destiny.story.sailing"
   },
   "professionConversionsMap": {},
   "shaderLocationsMap": {
@@ -181,8 +184,8 @@
   },
   "playerRendererBlacklist": {
     "firstpersonmod": "arms",
-    "epicfight": "all",
-    "firstperson": "arms"
+    "firstperson": "arms",
+    "epicfight": "all"
   },
   "enabledTraits": {
     "SIRBEN": true,
@@ -201,6 +204,6 @@
     "DWARFISM": true
   },
   "taxesMap": {
-    "minecraft:diamond": 10.0
+    "minecraft:emerald": 1.0
   }
 }

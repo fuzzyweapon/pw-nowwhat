@@ -27,6 +27,7 @@
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceVanillaReach": false,
     "executeRequireHoldingTool": true,
+    "fixChestMirror": true,
     "fixRailRotation": true,
     "generateLowercaseNames": true,
     "highlightBlockInInventory": false,
@@ -66,10 +67,11 @@
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick",
     "printingMode": false,
-    "printingInterval": 12,
-    "printingRange": 5.0,
-    "replaceFluidSourceBlocks": true,
-    "stripLogs": true
+    "printInterval": 4,
+    "printingRange": 2,
+    "printInAir": true,
+    "replaceFluids": false,
+    "stripLogs": false
   },
   "Hotkeys": {
     "addSelectionBox": {

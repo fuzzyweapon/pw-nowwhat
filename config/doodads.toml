@@ -34,5 +34,5 @@ enablePlatform = true
 enablePortableNether = true
 [doodadWorldGen]
 chestDoodadSpawnRate = 19.0
-enableDoodadSpawnsInVillages = true
+enableDoodadSpawnsInVillages = false
 entityDoodadDropRate = 16.0

@@ -6,12 +6,13 @@
     "show_icon": true,
     "icon_position": "MIDDLE",
     "show_mod_name": true,
+    "show_item_mod_name": true,
     "show_registry": true
   },
   "minecraft": {
     "item_entity": true,
     "pet.owner": true,
-    "pet.hide_unknown_owner": true,
+    "pet.hide_unknown_owner": false,
     "attribute.block_position": false,
     "attribute.block_state": false,
     "attribute.entity_position": false,

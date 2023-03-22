@@ -411,6 +411,9 @@
   "eternal_pedestal [default: true]": true,
   "infusion_pedestal [default: true]": true,
   "aeternium_anvil [default: true]": true,
+  "ivis_moss [default: true]": true,
+  "nightshade_moss [default: true]": true,
+  "ivis_vine [default: true]": true,
   "flower_pots": {
     "soils": {
       "end_mycelium [default: 0]": 0,
@@ -474,8 +477,5 @@
       "murkweed [default: 44]": 44,
       "needlegrass [default: 45]": 45
     }
-  },
-  "ivis_moss [default: true]": true,
-  "nightshade_moss [default: true]": true,
-  "ivis_vine [default: true]": true
+  }
 }

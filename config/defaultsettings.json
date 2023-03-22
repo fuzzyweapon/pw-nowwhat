@@ -1,7 +1,6 @@
 {
-  "version": "3.5.2",
-  "prevVersion": "3.0.2",
-  "initPopup": true,
+  "version": "4.0.5",
+  "prevVersion": "3.5.2",
   "generatedBy": "4311aec3-ba81-46c8-949c-a075b55e13be",
   "hashes": {},
   "mainProfile": "Default",

@@ -2,5 +2,6 @@
   "pingVolume": 75,
   "pingDistance": 2048,
   "itemIconVisible": true,
+  "pingDuration": 7,
   "channel": ""
 }

@@ -8,11 +8,12 @@
   "childNames": true,
   "turnOffVillagerConsoleSpam": false,
   "wanderingTraderNames": true,
-  "wanderingTraderText": "Dunce",
+  "wanderingTraderText": "Wandering Trader",
   "surNames": true,
   "reverseLastNames": false,
   "nameTagNames": true,
   "piglinNames": true,
   "piglinSurnames": true,
-  "illagerEntityNames": true
+  "illagerEntityNames": true,
+  "catNames": true
 }

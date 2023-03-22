@@ -3,8 +3,8 @@
     "world": "minecraft:overworld",
     "centerX": 0.0,
     "centerZ": -32.0,
-    "radiusX": 500.0,
-    "radiusZ": 500.0,
+    "radiusX": 1500.0,
+    "radiusZ": 1500.0,
     "shape": "square",
     "wrap": "none"
   }

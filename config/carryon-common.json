@@ -152,7 +152,9 @@
       "magic_doorknob:*",
       "iceandfire:*",
       "ftbquests:*",
-      "waystones:*"
+      "waystones:*",
+      "contact:*",
+      "framedblocks:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

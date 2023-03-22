@@ -18,7 +18,7 @@
 	"consume_local_void_on_use": true,
 	"free_local_void_teleport": true,
 	"store_waystone_data_on_sneak_break": true,
-	"discover_waystone_on_map_use": true,
+	"discover_waystone_on_map_use": false,
 	"can_owners_redeem_payments": false,
 	"waystone_block_hardness": 4.0,
 	"waystone_block_required_mining_level": 1,
@@ -40,6 +40,34 @@
 		"minecraft:village/savanna/houses": "village_waystone",
 		"minecraft:village/plains/houses": "village_waystone",
 		"minecraft:village/taiga/houses": "village_waystone",
-		"minecraft:village/snowy/houses": "village_waystone"
+		"minecraft:village/snowy/houses": "village_waystone",
+		// These are all of our villages where a waystone is added. If you also want to use T&T with another mod that also adds compat with the waystone mod, just paste what is below this message all the way down to the "/*" sign //
+		"kaisyn:village/badlands_pueblo/houses": "village_waystone",
+		"kaisyn:village/beach_lighthouse/side/cross": "village_waystone",
+		"kaisyn:village/birch_forest_romanian/houses": "village_waystone",
+		"kaisyn:village/flower_forest_japanese/houses": "village_waystone",
+		"kaisyn:village/grove_villager_outpost/decor": "village_waystone",
+		"kaisyn:village/jungle_tribal/houses": "village_waystone",
+		"kaisyn:village/meadow_swiss/houses": "village_waystone",
+		"kaisyn:village/mushroom_fields_fantasy/houses": "village_waystone",
+		"kaisyn:village/old_growth_taiga_polish/houses": "village_waystone",
+		"kaisyn:village/snowy_slopes_inn/decor": "village_waystone",		
+		"kaisyn:village/snowy_taiga_viking/houses": "village_waystone",
+		"kaisyn:village/sparse_jungle_polynesian/houses": "village_waystone",
+		"kaisyn:village/sunflower_plains_farm/side/farms": "village_waystone",		
+		"kaisyn:village/swamp_boat/houses": "village_waystone",
+		"kaisyn:village/exclusives/iberian/houses": "village_waystone",
+		"kaisyn:village/exclusives/mediterranean/houses/regular": "village_waystone",
+		"kaisyn:village/exclusives/rustic/houses": "village_waystone",
+		"kaisyn:village/exclusives/swedish/houses": "village_waystone",
+		"kaisyn:village/exclusives/tudor/houses": "village_waystone"
+		/*
+		The following villages don't have a waystone added either because they are too small or the terrain in these villages would cause problems:
+		- Ocean village (Villager Fleet)
+		- Wooded Badlands Village (Tipi camp)
+		- Classic (Pre-1.14) Village (exclusive structure
+		- Wandering Trader Camp (exclusive structure)
+		- Nilotic Village (exclusive structure)
+		*/
 	}
 }

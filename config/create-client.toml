@@ -79,7 +79,7 @@
 	[client.ponder]
 		#.
 		#Show additional info in the ponder view and reload scene scripts more frequently.
-		editingMode = true
+		editingMode = false
 		#.
 		#Slow down a ponder scene whenever there is text on screen.
 		comfyReading = true
@@ -91,6 +91,9 @@
 		#How far away the Camera should zoom when seated on a train
 		#Range: 0.0 ~ 3.4028234663852886E38
 		mountedZoomMultiplier = 3.0
+		#.
+		#Display nodes and edges of a Railway Network while f3 debug mode is active
+		showTrackGraphOnF3 = false
 
 	#.
 	#Settings for the Goggle Overlay

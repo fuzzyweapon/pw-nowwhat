@@ -1,22 +1,6 @@
 {
 	// Can use the following tags as repair ingredient -- minecraft:planks, minecraft:stone_crafting_materials. Other tags do not work.
 	"swordStats": {
-		"SWORD_DARK_KATANA": {
-			"material": "netherite",
-			"damage": 4,
-			"attackSpeed": -2.9000000953674316,
-			"repairIngredient": [
-				"minecraft:netherite_scrap"
-			]
-		},
-		"SWORD_DANCERS_SWORD": {
-			"material": "iron",
-			"damage": 3,
-			"attackSpeed": -2.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
 		"SWORD_BEESTINGER": {
 			"material": "iron",
 			"damage": 0,
@@ -25,58 +9,10 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"SWORD_NAMELESS_BLADE": {
+		"SWORD_BROADSWORD": {
 			"material": "iron",
-			"damage": 4,
-			"attackSpeed": -2.299999952316284,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SWORD_KATANA": {
-			"material": "iron",
-			"damage": 4,
-			"attackSpeed": -2.9000000953674316,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SWORD_FREEZING_FOIL": {
-			"material": "iron",
-			"damage": 1,
-			"attackSpeed": -1.100000023841858,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SWORD_DIAMOND_SWORD_VAR": {
-			"material": "diamond",
-			"damage": 3,
-			"attackSpeed": -2.4000000953674316,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"SWORD_HEARTSTEALER": {
-			"material": "diamond",
-			"damage": 6,
-			"attackSpeed": -3.200000047683716,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"SWORD_CUTLASS": {
-			"material": "iron",
-			"damage": 2,
-			"attackSpeed": -2.299999952316284,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SWORD_IRON_SWORD_VAR": {
-			"material": "iron",
-			"damage": 3,
-			"attackSpeed": -2.4000000953674316,
+			"damage": 5,
+			"attackSpeed": -3.0,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
@@ -89,7 +25,47 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"SWORD_SPONGE_STRIKER": {
+		"SWORD_CLAYMORE": {
+			"material": "iron",
+			"damage": 7,
+			"attackSpeed": -3.200000047683716,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_CORAL_BLADE": {
+			"material": "iron",
+			"damage": 3,
+			"attackSpeed": -2.4000000953674316,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_CUTLASS": {
+			"material": "iron",
+			"damage": 2,
+			"attackSpeed": -2.299999952316284,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_DANCERS_SWORD": {
+			"material": "iron",
+			"damage": 3,
+			"attackSpeed": -2.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_DARK_KATANA": {
+			"material": "netherite",
+			"damage": 4,
+			"attackSpeed": -2.9000000953674316,
+			"repairIngredient": [
+				"minecraft:netherite_scrap"
+			]
+		},
+		"SWORD_DIAMOND_SWORD_VAR": {
 			"material": "diamond",
 			"damage": 3,
 			"attackSpeed": -2.4000000953674316,
@@ -97,7 +73,23 @@
 				"minecraft:diamond"
 			]
 		},
-		"SWORD_CLAYMORE": {
+		"SWORD_FREEZING_FOIL": {
+			"material": "iron",
+			"damage": 1,
+			"attackSpeed": -1.100000023841858,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_FROST_SLAYER": {
+			"material": "diamond",
+			"damage": 6,
+			"attackSpeed": -3.200000047683716,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"SWORD_GREAT_AXEBLADE": {
 			"material": "iron",
 			"damage": 7,
 			"attackSpeed": -3.200000047683716,
@@ -113,6 +105,38 @@
 				"minecraft:iron_ingot"
 			]
 		},
+		"SWORD_HEARTSTEALER": {
+			"material": "diamond",
+			"damage": 6,
+			"attackSpeed": -3.200000047683716,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"SWORD_IRON_SWORD_VAR": {
+			"material": "iron",
+			"damage": 3,
+			"attackSpeed": -2.4000000953674316,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_KATANA": {
+			"material": "iron",
+			"damage": 4,
+			"attackSpeed": -2.9000000953674316,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_MASTERS_KATANA": {
+			"material": "diamond",
+			"damage": 4,
+			"attackSpeed": -2.9000000953674316,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
 		"SWORD_MECHANIZED_SAWBLADE": {
 			"material": "diamond",
 			"damage": 3,
@@ -121,42 +145,10 @@
 				"minecraft:blaze_rod"
 			]
 		},
-		"SWORD_THE_STARLESS_NIGHT": {
-			"material": "netherite",
-			"damage": 6,
-			"attackSpeed": -3.299999952316284,
-			"repairIngredient": [
-				"minecraft:netherite_scrap"
-			]
-		},
-		"SWORD_GREAT_AXEBLADE": {
+		"SWORD_NAMELESS_BLADE": {
 			"material": "iron",
-			"damage": 7,
-			"attackSpeed": -3.200000047683716,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SWORD_BROADSWORD": {
-			"material": "iron",
-			"damage": 5,
-			"attackSpeed": -3.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SWORD_CORAL_BLADE": {
-			"material": "iron",
-			"damage": 3,
-			"attackSpeed": -2.4000000953674316,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SWORD_SINISTER": {
-			"material": "iron",
-			"damage": 6,
-			"attackSpeed": -2.9000000953674316,
+			"damage": 4,
+			"attackSpeed": -2.299999952316284,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
@@ -177,30 +169,38 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"SWORD_FROST_SLAYER": {
-			"material": "diamond",
+		"SWORD_SINISTER": {
+			"material": "iron",
 			"damage": 6,
-			"attackSpeed": -3.200000047683716,
+			"attackSpeed": -2.9000000953674316,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SWORD_SPONGE_STRIKER": {
+			"material": "diamond",
+			"damage": 3,
+			"attackSpeed": -2.4000000953674316,
 			"repairIngredient": [
 				"minecraft:diamond"
 			]
 		},
-		"SWORD_MASTERS_KATANA": {
-			"material": "diamond",
-			"damage": 4,
-			"attackSpeed": -2.9000000953674316,
+		"SWORD_THE_STARLESS_NIGHT": {
+			"material": "netherite",
+			"damage": 6,
+			"attackSpeed": -3.299999952316284,
 			"repairIngredient": [
-				"minecraft:diamond"
+				"minecraft:netherite_scrap"
 			]
 		}
 	},
 	"axeStats": {
-		"AXE_ENCRUSTED_ANCHOR": {
-			"material": "diamond",
+		"AXE_ANCHOR": {
+			"material": "iron",
 			"damage": 8,
 			"attackSpeed": -3.4000000953674316,
 			"repairIngredient": [
-				"minecraft:diamond"
+				"minecraft:iron_ingot"
 			]
 		},
 		"AXE_AXE": {
@@ -211,20 +211,12 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"AXE_ANCHOR": {
-			"material": "iron",
+		"AXE_ENCRUSTED_ANCHOR": {
+			"material": "diamond",
 			"damage": 8,
 			"attackSpeed": -3.4000000953674316,
 			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"AXE_HIGHLAND": {
-			"material": "iron",
-			"damage": 4,
-			"attackSpeed": -2.9000000953674316,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
+				"minecraft:diamond"
 			]
 		},
 		"AXE_FIREBRAND": {
@@ -234,17 +226,17 @@
 			"repairIngredient": [
 				"minecraft:diamond"
 			]
-		}
-	},
-	"doubleAxeStats": {
-		"AXE_WHIRLWIND": {
+		},
+		"AXE_HIGHLAND": {
 			"material": "iron",
-			"damage": 6,
+			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
-		},
+		}
+	},
+	"doubleAxeStats": {
 		"AXE_CURSED": {
 			"material": "iron",
 			"damage": 7,
@@ -260,79 +252,23 @@
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
+		},
+		"AXE_WHIRLWIND": {
+			"material": "iron",
+			"damage": 6,
+			"attackSpeed": -2.9000000953674316,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
 		}
 	},
 	"daggerStats": {
-		"DAGGER_VOID_TOUCHED_BLADE": {
-			"material": "diamond",
-			"damage": 1,
-			"attackSpeed": -1.7999999523162842,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"DAGGER_SWIFT_STRIKER": {
-			"material": "netherite",
-			"damage": 1,
-			"attackSpeed": -1.7000000476837158,
-			"repairIngredient": [
-				"minecraft:netherite_scrap"
-			]
-		},
-		"DAGGER_TEMPEST_KNIFE": {
-			"material": "iron",
-			"damage": 2,
-			"attackSpeed": -2.200000047683716,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"DAGGER_FANGS_OF_FROST": {
-			"material": "iron",
-			"damage": 1,
-			"attackSpeed": -1.5,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"DAGGER_RESOLUTE_TEMPEST_KNIFE": {
-			"material": "iron",
-			"damage": 2,
-			"attackSpeed": -2.200000047683716,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"DAGGER_MOON": {
-			"material": "iron",
-			"damage": 1,
-			"attackSpeed": -1.5,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
 		"DAGGER_BACKSTABBER": {
 			"material": "diamond",
 			"damage": 1,
 			"attackSpeed": -1.7000000476837158,
 			"repairIngredient": [
 				"minecraft:diamond"
-			]
-		},
-		"DAGGER_SHEAR_DAGGER": {
-			"material": "iron",
-			"damage": 0,
-			"attackSpeed": -1.5,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"DAGGER_THE_BEGINNING": {
-			"material": "netherite",
-			"damage": 1,
-			"attackSpeed": -1.7999999523162842,
-			"repairIngredient": [
-				"minecraft:netherite_scrap"
 			]
 		},
 		"DAGGER_CHILL_GALE_KNIFE": {
@@ -351,6 +287,62 @@
 				"minecraft:iron_ingot"
 			]
 		},
+		"DAGGER_FANGS_OF_FROST": {
+			"material": "iron",
+			"damage": 1,
+			"attackSpeed": -1.5,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"DAGGER_MOON": {
+			"material": "iron",
+			"damage": 1,
+			"attackSpeed": -1.5,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"DAGGER_RESOLUTE_TEMPEST_KNIFE": {
+			"material": "iron",
+			"damage": 2,
+			"attackSpeed": -2.200000047683716,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"DAGGER_SHEAR_DAGGER": {
+			"material": "iron",
+			"damage": 0,
+			"attackSpeed": -1.5,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"DAGGER_SWIFT_STRIKER": {
+			"material": "netherite",
+			"damage": 1,
+			"attackSpeed": -1.7000000476837158,
+			"repairIngredient": [
+				"minecraft:netherite_scrap"
+			]
+		},
+		"DAGGER_TEMPEST_KNIFE": {
+			"material": "iron",
+			"damage": 2,
+			"attackSpeed": -2.200000047683716,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"DAGGER_THE_BEGINNING": {
+			"material": "netherite",
+			"damage": 1,
+			"attackSpeed": -1.7999999523162842,
+			"repairIngredient": [
+				"minecraft:netherite_scrap"
+			]
+		},
 		"DAGGER_THE_END": {
 			"material": "netherite",
 			"damage": 1,
@@ -358,23 +350,31 @@
 			"repairIngredient": [
 				"minecraft:netherite_scrap"
 			]
+		},
+		"DAGGER_VOID_TOUCHED_BLADE": {
+			"material": "diamond",
+			"damage": 1,
+			"attackSpeed": -1.7999999523162842,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
 		}
 	},
 	"soulDaggerStats": {
-		"DAGGER_SOUL_KNIFE": {
-			"material": "iron",
-			"damage": 4,
-			"attackSpeed": -2.799999952316284,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
 		"DAGGER_ETERNAL_KNIFE": {
 			"material": "netherite",
 			"damage": 4,
 			"attackSpeed": -2.799999952316284,
 			"repairIngredient": [
 				"minecraft:netherite_scrap"
+			]
+		},
+		"DAGGER_SOUL_KNIFE": {
+			"material": "iron",
+			"damage": 4,
+			"attackSpeed": -2.799999952316284,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
 			]
 		},
 		"SWORD_TRUTHSEEKER": {
@@ -387,6 +387,14 @@
 		}
 	},
 	"hammerStats": {
+		"HAMMER_BONECLUB": {
+			"material": "iron",
+			"damage": 7,
+			"attackSpeed": -3.200000047683716,
+			"repairIngredient": [
+				"minecraft:bone_block"
+			]
+		},
 		"HAMMER_BONE_CUDGEL": {
 			"material": "netherite",
 			"damage": 7,
@@ -403,28 +411,12 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"HAMMER_STORMLANDER": {
+		"HAMMER_GRAVITY": {
 			"material": "diamond",
-			"damage": 7,
+			"damage": 6,
 			"attackSpeed": -3.200000047683716,
 			"repairIngredient": [
 				"minecraft:diamond"
-			]
-		},
-		"HAMMER_MACE": {
-			"material": "iron",
-			"damage": 5,
-			"attackSpeed": -2.799999952316284,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"HAMMER_BONECLUB": {
-			"material": "iron",
-			"damage": 7,
-			"attackSpeed": -3.200000047683716,
-			"repairIngredient": [
-				"minecraft:bone_block"
 			]
 		},
 		"HAMMER_GREAT_HAMMER": {
@@ -435,9 +427,17 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"HAMMER_GRAVITY": {
+		"HAMMER_MACE": {
+			"material": "iron",
+			"damage": 5,
+			"attackSpeed": -2.799999952316284,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"HAMMER_STORMLANDER": {
 			"material": "diamond",
-			"damage": 6,
+			"damage": 7,
 			"attackSpeed": -3.200000047683716,
 			"repairIngredient": [
 				"minecraft:diamond"
@@ -453,12 +453,12 @@
 		}
 	},
 	"gauntletStats": {
-		"GAUNTLET_SOUL_FISTS": {
-			"material": "netherite",
+		"GAUNTLET_GAUNTLET": {
+			"material": "iron",
 			"damage": 0,
 			"attackSpeed": -1.5,
 			"repairIngredient": [
-				"minecraft:netherite_scrap"
+				"minecraft:iron_ingot"
 			]
 		},
 		"GAUNTLET_MAULERS": {
@@ -469,12 +469,12 @@
 				"minecraft:diamond"
 			]
 		},
-		"GAUNTLET_GAUNTLET": {
-			"material": "iron",
+		"GAUNTLET_SOUL_FISTS": {
+			"material": "netherite",
 			"damage": 0,
 			"attackSpeed": -1.5,
 			"repairIngredient": [
-				"minecraft:iron_ingot"
+				"minecraft:netherite_scrap"
 			]
 		}
 	},
@@ -482,14 +482,6 @@
 		"SICKLE_LAST_LAUGH_GOLD": {
 			"material": "iron",
 			"damage": 2,
-			"attackSpeed": -2.0999999046325684,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SICKLE_SICKLE": {
-			"material": "iron",
-			"damage": 1,
 			"attackSpeed": -2.0999999046325684,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
@@ -510,18 +502,18 @@
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
+		},
+		"SICKLE_SICKLE": {
+			"material": "iron",
+			"damage": 1,
+			"attackSpeed": -2.0999999046325684,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
 		}
 	},
 	"scytheStats": {
-		"SICKLE_SOUL_SCYTHE": {
-			"material": "diamond",
-			"damage": 3,
-			"attackSpeed": -2.9000000953674316,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"SICKLE_SKULL_SCYTHE": {
+		"SICKLE_FROST_SCYTHE": {
 			"material": "diamond",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -537,9 +529,17 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"SICKLE_FROST_SCYTHE": {
+		"SICKLE_SKULL_SCYTHE": {
 			"material": "diamond",
 			"damage": 4,
+			"attackSpeed": -2.9000000953674316,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"SICKLE_SOUL_SCYTHE": {
+			"material": "diamond",
+			"damage": 3,
 			"attackSpeed": -2.9000000953674316,
 			"repairIngredient": [
 				"minecraft:diamond"
@@ -547,20 +547,12 @@
 		}
 	},
 	"pickStats": {
-		"PICK_MOUNTAINEER_PICK": {
-			"material": "iron",
+		"PICK_DIAMOND_PICKAXE_VAR": {
+			"material": "diamond",
 			"damage": 1,
 			"attackSpeed": -2.799999952316284,
 			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"PICK_HOWLING_PICK": {
-			"material": "iron",
-			"damage": 1,
-			"attackSpeed": -2.799999952316284,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
+				"minecraft:diamond"
 			]
 		},
 		"PICK_HAILING_PINNACLE": {
@@ -571,37 +563,29 @@
 				"minecraft:diamond"
 			]
 		},
-		"PICK_DIAMOND_PICKAXE_VAR": {
-			"material": "diamond",
+		"PICK_HOWLING_PICK": {
+			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -2.799999952316284,
 			"repairIngredient": [
-				"minecraft:diamond"
+				"minecraft:iron_ingot"
+			]
+		},
+		"PICK_MOUNTAINEER_PICK": {
+			"material": "iron",
+			"damage": 1,
+			"attackSpeed": -2.799999952316284,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
 			]
 		}
 	},
 	// This value is ignored if Better Combat is installed! Default: 1.0
 	"extraAttackReachOfGlaives": 1.0,
 	"glaiveStats": {
-		"SPEAR_GRAVE_BANE": {
-			"material": "iron",
-			"damage": 6,
-			"attackSpeed": -3.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
 		"SPEAR_CACKLING_BROOM": {
 			"material": "iron",
 			"damage": 5,
-			"attackSpeed": -3.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"SPEAR_VENOM_GLAIVE": {
-			"material": "iron",
-			"damage": 6,
 			"attackSpeed": -3.0,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
@@ -614,11 +598,35 @@
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
+		},
+		"SPEAR_GRAVE_BANE": {
+			"material": "iron",
+			"damage": 6,
+			"attackSpeed": -3.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"SPEAR_VENOM_GLAIVE": {
+			"material": "iron",
+			"damage": 6,
+			"attackSpeed": -3.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
 		}
 	},
 	// This value is ignored if Better Combat is installed! Default: 1.0
 	"extraAttackReachOfSpears": 1.0,
 	"spearStats": {
+		"SPEAR_SPEAR": {
+			"material": "iron",
+			"damage": 4,
+			"attackSpeed": -2.5,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
 		"SPEAR_WHISPERING_SPEAR": {
 			"material": "iron",
 			"damage": 5,
@@ -634,19 +642,19 @@
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
-		},
-		"SPEAR_SPEAR": {
-			"material": "iron",
-			"damage": 4,
-			"attackSpeed": -2.5,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
 		}
 	},
 	// This value is ignored if Better Combat is installed! Default: 1.0
 	"extraAttackReachOfStaves": 1.0,
 	"staffStats": {
+		"STAFF_BATTLESTAFF": {
+			"material": "wood",
+			"damage": 2,
+			"attackSpeed": -2.5999999046325684,
+			"repairIngredient": [
+				"minecraft:planks"
+			]
+		},
 		"STAFF_BATTLESTAFF_OF_TERROR": {
 			"material": "iron",
 			"damage": 5,
@@ -662,27 +670,11 @@
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
-		},
-		"STAFF_BATTLESTAFF": {
-			"material": "wood",
-			"damage": 2,
-			"attackSpeed": -2.5999999046325684,
-			"repairIngredient": [
-				"minecraft:planks"
-			]
 		}
 	},
 	// This value is ignored if Better Combat is installed! Default: 1.5
 	"extraAttackReachOfWhips": 1.5,
 	"whipStats": {
-		"WHIP_WHIP": {
-			"material": "iron",
-			"damage": 3,
-			"attackSpeed": -3.0999999046325684,
-			"repairIngredient": [
-				"minecraft:string"
-			]
-		},
 		"WHIP_VINE_WHIP": {
 			"material": "iron",
 			"damage": 5,
@@ -690,103 +682,23 @@
 			"repairIngredient": [
 				"minecraft:vine"
 			]
+		},
+		"WHIP_WHIP": {
+			"material": "iron",
+			"damage": 3,
+			"attackSpeed": -3.0999999046325684,
+			"repairIngredient": [
+				"minecraft:string"
+			]
 		}
 	},
 	"bowStats": {
-		"BOW_NOCTURNAL_BOW": {
-			"material": "diamond",
-			"drawSpeed": 17,
-			"range": 14.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_PINK_SCOUNDREL": {
-			"material": "diamond",
-			"drawSpeed": 17,
-			"range": 13.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_WIND_BOW": {
-			"material": "diamond",
-			"drawSpeed": 11,
-			"range": 15.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_MASTERS_BOW": {
-			"material": "iron",
-			"drawSpeed": 17,
-			"range": 10.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"BOW_WEB_BOW": {
-			"material": "diamond",
-			"drawSpeed": 15,
-			"range": 12.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_VOID_BOW": {
-			"material": "diamond",
-			"drawSpeed": 15,
-			"range": 15.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_WEEPING_VINE_BOW": {
-			"material": "iron",
-			"drawSpeed": 15,
-			"range": 10.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"BOW_LOST_SOULS": {
+		"BOW_ANCIENT_BOW": {
 			"material": "netherite",
-			"drawSpeed": 12,
-			"range": 17.0,
+			"drawSpeed": 14,
+			"range": 18.0,
 			"repairIngredient": [
 				"minecraft:netherite_scrap"
-			]
-		},
-		"BOW_ELITE_POWER_BOW": {
-			"material": "iron",
-			"drawSpeed": 20,
-			"range": 15.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"BOW_POWER_BOW": {
-			"material": "iron",
-			"drawSpeed": 20,
-			"range": 14.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"BOW_ECHO_OF_THE_VALLEY": {
-			"material": "diamond",
-			"drawSpeed": 11,
-			"range": 16.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_TRICKBOW": {
-			"material": "diamond",
-			"drawSpeed": 12,
-			"range": 10.0,
-			"repairIngredient": [
-				"minecraft:diamond"
 			]
 		},
 		"BOW_BONEBOW": {
@@ -797,26 +709,18 @@
 				"minecraft:bone"
 			]
 		},
-		"BOW_SHIVERING_BOW": {
-			"material": "diamond",
-			"drawSpeed": 14,
-			"range": 10.0,
+		"BOW_BUBBLE_BOW": {
+			"material": "iron",
+			"drawSpeed": 15,
+			"range": 12.0,
 			"repairIngredient": [
-				"minecraft:diamond"
+				"minecraft:iron_ingot"
 			]
 		},
-		"BOW_GREEN_MENACE": {
+		"BOW_BUBBLE_BURSTER": {
 			"material": "diamond",
-			"drawSpeed": 17,
+			"drawSpeed": 15,
 			"range": 13.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_PHANTOM_BOW": {
-			"material": "diamond",
-			"drawSpeed": 20,
-			"range": 14.0,
 			"repairIngredient": [
 				"minecraft:diamond"
 			]
@@ -837,25 +741,25 @@
 				"minecraft:netherite_scrap"
 			]
 		},
-		"BOW_HUNTING_BOW": {
-			"material": "iron",
-			"drawSpeed": 16,
-			"range": 11.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"BOW_HUNTERS_PROMISE": {
-			"material": "iron",
-			"drawSpeed": 15,
-			"range": 10.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"BOW_WINTERS_TOUCH": {
+		"BOW_ECHO_OF_THE_VALLEY": {
 			"material": "diamond",
-			"drawSpeed": 15,
+			"drawSpeed": 11,
+			"range": 16.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_ELITE_POWER_BOW": {
+			"material": "iron",
+			"drawSpeed": 20,
+			"range": 15.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"BOW_GREEN_MENACE": {
+			"material": "diamond",
+			"drawSpeed": 17,
 			"range": 13.0,
 			"repairIngredient": [
 				"minecraft:diamond"
@@ -869,6 +773,94 @@
 				"minecraft:netherite_scrap"
 			]
 		},
+		"BOW_HUNTERS_PROMISE": {
+			"material": "iron",
+			"drawSpeed": 15,
+			"range": 10.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"BOW_HUNTING_BOW": {
+			"material": "iron",
+			"drawSpeed": 16,
+			"range": 11.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"BOW_LOST_SOULS": {
+			"material": "netherite",
+			"drawSpeed": 12,
+			"range": 17.0,
+			"repairIngredient": [
+				"minecraft:netherite_scrap"
+			]
+		},
+		"BOW_MASTERS_BOW": {
+			"material": "iron",
+			"drawSpeed": 17,
+			"range": 10.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"BOW_NOCTURNAL_BOW": {
+			"material": "diamond",
+			"drawSpeed": 17,
+			"range": 14.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_PHANTOM_BOW": {
+			"material": "diamond",
+			"drawSpeed": 20,
+			"range": 14.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_PINK_SCOUNDREL": {
+			"material": "diamond",
+			"drawSpeed": 17,
+			"range": 13.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_POWER_BOW": {
+			"material": "iron",
+			"drawSpeed": 20,
+			"range": 14.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"BOW_SABREWING": {
+			"material": "diamond",
+			"drawSpeed": 10,
+			"range": 13.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_SHIVERING_BOW": {
+			"material": "diamond",
+			"drawSpeed": 14,
+			"range": 10.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_SNOW_BOW": {
+			"material": "iron",
+			"drawSpeed": 16,
+			"range": 11.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
 		"BOW_SOUL_BOW": {
 			"material": "iron",
 			"drawSpeed": 14,
@@ -877,18 +869,10 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"BOW_BUBBLE_BURSTER": {
+		"BOW_TRICKBOW": {
 			"material": "diamond",
-			"drawSpeed": 15,
-			"range": 13.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"BOW_SABREWING": {
-			"material": "diamond",
-			"drawSpeed": 10,
-			"range": 13.0,
+			"drawSpeed": 12,
+			"range": 10.0,
 			"repairIngredient": [
 				"minecraft:diamond"
 			]
@@ -901,22 +885,6 @@
 				"minecraft:diamond"
 			]
 		},
-		"BOW_BUBBLE_BOW": {
-			"material": "iron",
-			"drawSpeed": 15,
-			"range": 12.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"BOW_SNOW_BOW": {
-			"material": "iron",
-			"drawSpeed": 16,
-			"range": 11.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
 		"BOW_TWISTING_VINE_BOW": {
 			"material": "iron",
 			"drawSpeed": 15,
@@ -925,17 +893,49 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"BOW_ANCIENT_BOW": {
-			"material": "netherite",
-			"drawSpeed": 14,
-			"range": 18.0,
+		"BOW_VOID_BOW": {
+			"material": "diamond",
+			"drawSpeed": 15,
+			"range": 15.0,
 			"repairIngredient": [
-				"minecraft:netherite_scrap"
+				"minecraft:diamond"
+			]
+		},
+		"BOW_WEB_BOW": {
+			"material": "diamond",
+			"drawSpeed": 15,
+			"range": 12.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_WEEPING_VINE_BOW": {
+			"material": "iron",
+			"drawSpeed": 15,
+			"range": 10.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"BOW_WIND_BOW": {
+			"material": "diamond",
+			"drawSpeed": 11,
+			"range": 15.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"BOW_WINTERS_TOUCH": {
+			"material": "diamond",
+			"drawSpeed": 15,
+			"range": 13.0,
+			"repairIngredient": [
+				"minecraft:diamond"
 			]
 		}
 	},
 	"shortbowStats": {
-		"BOW_PURPLE_STORM": {
+		"BOW_LOVE_SPELL_BOW": {
 			"material": "iron",
 			"drawSpeed": 9,
 			"range": 8.0,
@@ -951,7 +951,7 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"BOW_LOVE_SPELL_BOW": {
+		"BOW_PURPLE_STORM": {
 			"material": "iron",
 			"drawSpeed": 9,
 			"range": 8.0,
@@ -977,20 +977,20 @@
 				"minecraft:diamond"
 			]
 		},
-		"BOW_RED_SNAKE": {
-			"material": "diamond",
-			"drawSpeed": 30,
-			"range": 18.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
 		"BOW_LONGBOW": {
 			"material": "iron",
 			"drawSpeed": 25,
 			"range": 17.0,
 			"repairIngredient": [
 				"minecraft:planks"
+			]
+		},
+		"BOW_RED_SNAKE": {
+			"material": "diamond",
+			"drawSpeed": 30,
+			"range": 18.0,
+			"repairIngredient": [
+				"minecraft:diamond"
 			]
 		}
 	},
@@ -1003,26 +1003,10 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_BURST_CROSSBOW": {
+		"CROSSBOW_AZURE_SEEKER": {
 			"material": "iron",
 			"drawSpeed": 28,
-			"range": 8.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"CROSSBOW_CORRUPTED_CROSSBOW": {
-			"material": "netherite",
-			"drawSpeed": 22,
-			"range": 14.0,
-			"repairIngredient": [
-				"minecraft:netherite_scrap"
-			]
-		},
-		"CROSSBOW_THE_SLICER": {
-			"material": "iron",
-			"drawSpeed": 28,
-			"range": 10.199999809265137,
+			"range": 8.399999618530273,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
@@ -1035,6 +1019,38 @@
 				"minecraft:iron_ingot"
 			]
 		},
+		"CROSSBOW_BURST_CROSSBOW": {
+			"material": "iron",
+			"drawSpeed": 28,
+			"range": 8.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"CROSSBOW_BUTTERFLY_CROSSBOW": {
+			"material": "iron",
+			"drawSpeed": 28,
+			"range": 8.899999618530273,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"CROSSBOW_COG_CROSSBOW": {
+			"material": "iron",
+			"drawSpeed": 28,
+			"range": 8.399999618530273,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"CROSSBOW_CORRUPTED_CROSSBOW": {
+			"material": "netherite",
+			"drawSpeed": 22,
+			"range": 14.0,
+			"repairIngredient": [
+				"minecraft:netherite_scrap"
+			]
+		},
 		"CROSSBOW_DOOM_CROSSBOW": {
 			"material": "netherite",
 			"drawSpeed": 26,
@@ -1043,31 +1059,15 @@
 				"minecraft:netherite_scrap"
 			]
 		},
-		"CROSSBOW_FIREBOLT_THROWER": {
+		"CROSSBOW_DUAL_CROSSBOW": {
 			"material": "iron",
-			"drawSpeed": 28,
-			"range": 7.900000095367432,
+			"drawSpeed": 24,
+			"range": 7.0,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_VEILED_CROSSBOW": {
-			"material": "diamond",
-			"drawSpeed": 22,
-			"range": 14.5,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"CROSSBOW_SHADOW_CROSSBOW": {
-			"material": "diamond",
-			"drawSpeed": 25,
-			"range": 12.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"CROSSBOW_SCATTER_CROSSBOW": {
+		"CROSSBOW_EXPLODING_CROSSBOW": {
 			"material": "iron",
 			"drawSpeed": 28,
 			"range": 8.0,
@@ -1083,10 +1083,10 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_IMPLODING_CROSSBOW": {
+		"CROSSBOW_FIREBOLT_THROWER": {
 			"material": "iron",
 			"drawSpeed": 28,
-			"range": 8.0,
+			"range": 7.900000095367432,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
@@ -1099,14 +1099,6 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_HEAVY_CROSSBOW": {
-			"material": "iron",
-			"drawSpeed": 28,
-			"range": 8.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
 		"CROSSBOW_HARP_CROSSBOW": {
 			"material": "iron",
 			"drawSpeed": 28,
@@ -1115,47 +1107,15 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_SPELLBOUND_CROSSBOW": {
+		"CROSSBOW_HEAVY_CROSSBOW": {
 			"material": "iron",
 			"drawSpeed": 28,
-			"range": 8.899999618530273,
+			"range": 8.0,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_AZURE_SEEKER": {
-			"material": "iron",
-			"drawSpeed": 28,
-			"range": 8.399999618530273,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"CROSSBOW_VOIDCALLER_CROSSBOW": {
-			"material": "diamond",
-			"drawSpeed": 26,
-			"range": 12.5,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"CROSSBOW_SOUL_HUNTER_CROSSBOW": {
-			"material": "diamond",
-			"drawSpeed": 28,
-			"range": 11.0,
-			"repairIngredient": [
-				"minecraft:diamond"
-			]
-		},
-		"CROSSBOW_BUTTERFLY_CROSSBOW": {
-			"material": "iron",
-			"drawSpeed": 28,
-			"range": 8.899999618530273,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"CROSSBOW_EXPLODING_CROSSBOW": {
+		"CROSSBOW_IMPLODING_CROSSBOW": {
 			"material": "iron",
 			"drawSpeed": 28,
 			"range": 8.0,
@@ -1171,20 +1131,12 @@
 				"minecraft:diamond"
 			]
 		},
-		"CROSSBOW_SOUL_CROSSBOW": {
-			"material": "iron",
-			"drawSpeed": 28,
-			"range": 8.0,
-			"repairIngredient": [
-				"minecraft:iron_ingot"
-			]
-		},
-		"CROSSBOW_DUAL_CROSSBOW": {
-			"material": "iron",
+		"CROSSBOW_NAUTICAL_CROSSBOW": {
+			"material": "diamond",
 			"drawSpeed": 24,
-			"range": 7.0,
+			"range": 14.0,
 			"repairIngredient": [
-				"minecraft:iron_ingot"
+				"minecraft:diamond"
 			]
 		},
 		"CROSSBOW_PRIDE_OF_THE_PIGLINS": {
@@ -1203,18 +1155,18 @@
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_COG_CROSSBOW": {
+		"CROSSBOW_SCATTER_CROSSBOW": {
 			"material": "iron",
 			"drawSpeed": 28,
-			"range": 8.399999618530273,
+			"range": 8.0,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
 			]
 		},
-		"CROSSBOW_NAUTICAL_CROSSBOW": {
+		"CROSSBOW_SHADOW_CROSSBOW": {
 			"material": "diamond",
-			"drawSpeed": 24,
-			"range": 14.0,
+			"drawSpeed": 25,
+			"range": 12.0,
 			"repairIngredient": [
 				"minecraft:diamond"
 			]
@@ -1226,14 +1178,62 @@
 			"repairIngredient": [
 				"minecraft:diamond"
 			]
+		},
+		"CROSSBOW_SOUL_CROSSBOW": {
+			"material": "iron",
+			"drawSpeed": 28,
+			"range": 8.0,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"CROSSBOW_SOUL_HUNTER_CROSSBOW": {
+			"material": "diamond",
+			"drawSpeed": 28,
+			"range": 11.0,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"CROSSBOW_SPELLBOUND_CROSSBOW": {
+			"material": "iron",
+			"drawSpeed": 28,
+			"range": 8.899999618530273,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"CROSSBOW_THE_SLICER": {
+			"material": "iron",
+			"drawSpeed": 28,
+			"range": 10.199999809265137,
+			"repairIngredient": [
+				"minecraft:iron_ingot"
+			]
+		},
+		"CROSSBOW_VEILED_CROSSBOW": {
+			"material": "diamond",
+			"drawSpeed": 22,
+			"range": 14.5,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
+		},
+		"CROSSBOW_VOIDCALLER_CROSSBOW": {
+			"material": "diamond",
+			"drawSpeed": 26,
+			"range": 12.5,
+			"repairIngredient": [
+				"minecraft:diamond"
+			]
 		}
 	},
 	"shieldStats": {
-		"SHIELD_VANGUARD": {
+		"SHIELD_ROYAL_GUARD": {
 			"material": "diamond",
 			"repairIngredient": [
-				"minecraft:planks",
-				"minecraft:iron_ingot"
+				"minecraft:iron_ingot",
+				"minecraft:gold_ingot"
 			]
 		},
 		"SHIELD_TOWER_GUARD": {
@@ -1244,11 +1244,11 @@
 				"minecraft:copper_ingot"
 			]
 		},
-		"SHIELD_ROYAL_GUARD": {
+		"SHIELD_VANGUARD": {
 			"material": "diamond",
 			"repairIngredient": [
-				"minecraft:iron_ingot",
-				"minecraft:gold_ingot"
+				"minecraft:planks",
+				"minecraft:iron_ingot"
 			]
 		}
 	}

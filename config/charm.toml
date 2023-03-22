@@ -3,7 +3,7 @@
 #Allows anvil repair of items with repair cost 39 or more.
 "AllowTooExpensive Enabled" = true
 #Place a block of amethyst under a note block to play its placement sound.
-"AmethystNoteBlock Enabled" = false
+"AmethystNoteBlock Enabled" = true
 #Storage for maps that automatically updates the displayed map as you explore.
 "Atlases Enabled" = true
 #Refills your hotbar from your inventory.
@@ -78,7 +78,7 @@
 #A husk has a chance to drop sand when killed.
 "HusksDropSand Enabled" = true
 #Husks spawn anywhere within their biome rather than just the surface.
-"HusksSpawnUnderground Enabled" = true
+"HusksSpawnUnderground Enabled" = false
 #Nether fortress loot chests can contain enchanted armor and weapons, more diamonds, treasure enchanted books, blaze powder, and (rarely) wither skeleton skulls.
 "ImprovedFortressLoot Enabled" = true
 #Mansion loot chests can contain totems, enchanted armor and axes, and treasure enchanted books.
@@ -118,9 +118,9 @@
 #Tamed animals do not take direct damage from players.
 "NoPetDamage Enabled" = true
 #Removes the potion enchantment glint so you can see what the potion color is.
-"NoPotionGlint Enabled" = true
+"NoPotionGlint Enabled" = false
 #Removes the dark outer overlay when zooming in with the spyglass, giving you the full view.
-"NoSpyglassScope Enabled" = true
+"NoSpyglassScope Enabled" = false
 #Treasure enchantments such as Mending and Soul Speed are no longer tradeable with villagers.
 #This is an opinionated feature designed to force the player to explore and so is disabled by default.
 "NoTreasureEnchantmentTrading Enabled" = false
@@ -150,7 +150,7 @@
 "RepairTridentsFromShards Enabled" = true
 #The repsawn anchor can be used in the End.
 #This is an opinionated feature that changes core gameplay and so is disabled by default.
-"RespawnAnchorInTheEnd Enabled" = false
+"RespawnAnchorInTheEnd Enabled" = true
 #An item's repair cost is shown in their tooltip when looking at the anvil screen.
 "ShowRepairCost Enabled" = true
 #Drag and drop items into a shulkerbox from within your inventory.
@@ -176,7 +176,7 @@
 #The player's inventory items will be preserved in the Totem of Preserving upon death.
 #By default, a new totem will always be spawned to preserve items upon dying ('Grave mode').
 #If Grave mode is not enabled, you must be holding a totem in order for it to preserve your items.
-"TotemOfPreserving Enabled" = true
+"TotemOfPreserving Enabled" = false
 #A totem will work from anywhere in the player's inventory as well as held in the main or offhand.
 "TotemWorksFromInventory Enabled" = true
 #Barrels available in all types of vanilla wood.
@@ -300,7 +300,7 @@
 	#If true, leatherworkers will sell leather in return for rotten flesh.
 	"Leather for rotten flesh" = true
 	#If true, butchers will sell beef in return for rotten flesh.
-	"Beef for rotten flesh" = false
+	"Beef for rotten flesh" = true
 	#If true, leatherworkers will sell bundles in return for emeralds.
 	Bundles = true
 
@@ -406,7 +406,7 @@
 	#If true, the totem will preserve the player's experience and restore when broken.
 	"Preserve XP" = false
 	#If true, the coordinates where you died will be added to the player's chat screen.
-	"Show death position" = false
+	"Show death position" = true
 
 [VariantMobTextures]
 	#If true, cows may spawn with different textures.

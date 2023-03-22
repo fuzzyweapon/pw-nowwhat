@@ -3,6 +3,9 @@
     "megane-fabric-transfer": {
       "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true
     },
+    "megane-create": {
+      "lol.bai.megane.module.create.MeganeCreate": true
+    },
     "megane-alloy-forgery": {
       "lol.bai.megane.module.alloyforgery.MeganeAlloyForgery": true
     },
