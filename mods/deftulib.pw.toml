@@ -1,6 +1,6 @@
 name = "DeftuLib"
 filename = "DeftuLib-1.19.2-1.5.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

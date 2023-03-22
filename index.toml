@@ -2512,7 +2512,7 @@ metafile = true
 
 [[files]]
 file = "mods/crashbrander.pw.toml"
-hash = "7c04d6061a7287b906a723e54a2821576a1f6ef23aa0dc4170512e2c789cafb4"
+hash = "48573da798a93664d87a9075be093591a2e8954279415eb49e943bedc495e9c3"
 metafile = true
 
 [[files]]
@@ -2567,7 +2567,7 @@ metafile = true
 
 [[files]]
 file = "mods/deftulib.pw.toml"
-hash = "b2048ec599e05292a30c65a2ac007c82c128858f4df259c698cae0d32e4023a3"
+hash = "06c912eafa4290017db4c343dd4647a83428675dc94947af97a52231dda6f4f3"
 metafile = true
 
 [[files]]
