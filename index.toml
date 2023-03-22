@@ -2491,6 +2491,11 @@ hash = "362b7c2a0bee20df39b4ec433e57f71307459b9132f05298ea7355407683accf"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "0318b9dd838aec0a1b7d5393a80e0119efabbb4dba692ae8dbb239cd849876bd"
+metafile = true
+
+[[files]]
 file = "mods/content-creator-server-status.pw.toml"
 hash = "82571591c9e10f38334d225fa84bef8818a84fecef092996082b836d2aefd2d7"
 metafile = true
