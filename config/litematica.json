@@ -84,7 +84,7 @@
       "keys": ""
     },
     "easyPlaceUseKey": {
-      "keys": "BUTTON_2"
+      "keys": "LEFT_SHIFT,BUTTON_2"
     },
     "easyPlaceToggle": {
       "keys": ""
