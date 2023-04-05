@@ -1,6 +1,6 @@
 {
   "version": {
-    "didShowWelcome [default: false]": true,
+    "didShowWelcome [default: false]": false,
     "check [default: true]": true
   },
   "ui": {
