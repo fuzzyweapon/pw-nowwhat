@@ -134,3 +134,6 @@ gradle-app.setting
 /.shellspec-quick.log
 /out/test/report/
 /out/test/coverage/
+
+### MC Mod Configs ###
+/config/inventoryprofilesnext/now-what.duckdns.org/lockSlots.txt
