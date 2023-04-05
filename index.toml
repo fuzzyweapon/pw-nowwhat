@@ -1941,6 +1941,7 @@ hash = "c6aea5a2894ec2e9da0dd6c8f3c4ce7a37f7370640f42c627c3918910be2604f"
 [[files]]
 file = "config/spark/activity.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+preserve = true
 
 [[files]]
 file = "config/spark/config.json"
