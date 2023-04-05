@@ -1,1 +1,11 @@
-{"filters":[],"filterSelf":true,"delay":500,"color":"gold","useColor":true,"useBold":true,"useItalic":false,"useStrikeThrough":false,"useUnderline":false}
+{
+  "filters": [],
+  "filterSelf": true,
+  "delay": 500,
+  "color": "gold",
+  "useColor": true,
+  "useBold": true,
+  "useItalic": false,
+  "useStrikeThrough": false,
+  "useUnderline": false
+}
