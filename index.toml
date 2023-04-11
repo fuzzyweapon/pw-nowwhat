@@ -1022,10 +1022,6 @@ file = "config/quicksort-custom.json5"
 hash = "134e2fc815515ffe2f9ff91c4c8510cfad6e91a0aeded33848e0a590d4dd408f"
 
 [[files]]
-file = "config/quicksort.json5"
-hash = "d47fe173ad2457aa854ffb08879bd28a301b310f7b33b3d7095e5fbd04a9ca12"
-
-[[files]]
 file = "config/realisticsleep.json"
 hash = "8096aead3392fe9fb756f87ad41f0c68c016dc7c250bd4beac7909dba7142b0e"
 
