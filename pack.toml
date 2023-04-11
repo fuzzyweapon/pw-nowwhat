@@ -1,12 +1,12 @@
 name = "NowWhat"
 author = "fuzzyweapon"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1a1d8a2d6b8f69ee0314189791e783faadf569e82c7f5285ddb38cd4556cbfbf"
+hash = "cc2bcbf4c83795f09454784b878dde9f3fe9aebc9d3efc809c70bddd6e280f56"
 
 [versions]
 fabric = "0.14.17"
