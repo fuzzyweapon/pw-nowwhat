@@ -2804,6 +2804,16 @@ file = "nw.sh"
 hash = "e8a95d59ec24bb3a47ccce1210944e482861589b3b01156f5d6fb6a73da145fd"
 
 [[files]]
+file = "options.amecsapi.txt"
+hash = "96224185aa219df5b86cac1f7ec017eeff13e51cef7f27a74e92d92c95110842"
+preserve = true
+
+[[files]]
+file = "options.txt"
+hash = "4553f8e99e09ccd3776c0bacd0c234435c76d7ae2e8764c352b7f64fa250b45a"
+preserve = true
+
+[[files]]
 file = "resourcepacks/emissives-for-xalis-enchanted-books.pw.toml"
 hash = "829418b36cfa960f33299f7937f65fe376272ccb5c0b0ccf1a8daa2eb0e08ad6"
 metafile = true
@@ -2830,7 +2840,7 @@ metafile = true
 
 [[files]]
 file = "server.json"
-hash = "0b605ae8d8b159126eaf4c5ecb9556c15a93bfc85b80646cd6e1d46142ee4f52"
+hash = "39623085d719e166a48f6296122c686926986a03f9c61bfaa4cd0b8a69ffded6"
 
 [[files]]
 file = "server.png"
