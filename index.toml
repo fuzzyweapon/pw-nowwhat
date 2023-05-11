@@ -1299,6 +1299,11 @@ hash = "8f210961056d42f78c6d374594a05702ba13d07b63cd6156ee317f1316bd05a7"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "c9d3519f77e0101544ca6bd93ec50f483e68abf90b41d0853edc3c780a5c422e"
 metafile = true
@@ -2836,7 +2841,7 @@ metafile = true
 
 [[files]]
 file = "server.json"
-hash = "39623085d719e166a48f6296122c686926986a03f9c61bfaa4cd0b8a69ffded6"
+hash = "3b33319e23cbbddd7494f25c003df66081b0ab04bf2d4517ba92bcd6105a96cd"
 
 [[files]]
 file = "server.png"
