@@ -1,212 +1,443 @@
 {
   "attributes": {
-    "minecraft:generic.follow_range": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.flying_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "porting_lib:entity_gravity": {
-      "enabled": false,
-      "min": {
-        "default": -8,
-        "value": -8
-      },
-      "max": {
-        "default": 8,
-        "value": 10000000
-      }
-    },
-    "reach-entity-attributes:reach": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.movement_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "stepheightentityattribute:stepheight": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.max_health": {
-      "enabled": true,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.attack_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.attack_damage": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 10000000
-      }
-    },
-    "porting_lib:step_height_addition": {
-      "enabled": false,
-      "min": {
-        "default": -512,
-        "value": -512
-      },
-      "max": {
-        "default": 512,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.luck": {
-      "enabled": true,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "minecraft:zombie.spawn_reinforcements": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "minecraft:horse.jump_strength": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.attack_knockback": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 5,
-        "value": 10000000
-      }
-    },
     "minecraft:generic.armor": {
       "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
       "max": {
         "default": 30,
         "value": 10000000
-      }
-    },
-    "minecraft:generic.knockback_resistance": {
-      "enabled": true,
+      },
       "min": {
         "default": 0,
         "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
       }
     },
     "minecraft:generic.armor_toughness": {
       "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
       "max": {
         "default": 20,
         "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:generic.attack_damage": {
+      "enabled": true,
+      "max": {
+        "default": 2048,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:generic.attack_knockback": {
+      "enabled": true,
+      "max": {
+        "default": 5,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:generic.attack_speed": {
+      "enabled": true,
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:generic.follow_range": {
+      "enabled": true,
+      "max": {
+        "default": 2048,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:generic.knockback_resistance": {
+      "enabled": true,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:generic.luck": {
+      "enabled": true,
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1024,
+        "value": -1024
+      }
+    },
+    "minecraft:generic.max_health": {
+      "enabled": true,
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      },
+      "min": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "minecraft:generic.movement_speed": {
+      "enabled": true,
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:horse.jump_strength": {
+      "enabled": true,
+      "max": {
+        "default": 2,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:breaking_speed": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:constitution": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:dexterity": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:evasion": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:fire_resistance": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1,
+        "value": -1
+      }
+    },
+    "playerex:freeze_resistance": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1,
+        "value": -1
+      }
+    },
+    "playerex:heal_amplification": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:health_regeneration": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:intelligence": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:level": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:lifesteal": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:lightning_resistance": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1,
+        "value": -1
+      }
+    },
+    "playerex:luckiness": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:melee_crit_chance": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:melee_crit_damage": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:poison_resistance": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1,
+        "value": -1
+      }
+    },
+    "playerex:ranged_crit_chance": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:ranged_crit_damage": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:ranged_damage": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:strength": {
+      "enabled": false,
+      "max": {
+        "default": 2147483647,
+        "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
+      }
+    },
+    "playerex:wither_resistance": {
+      "enabled": false,
+      "max": {
+        "default": 1,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1,
+        "value": -1
+      }
+    },
+    "porting_lib:entity_gravity": {
+      "enabled": false,
+      "max": {
+        "default": 8,
+        "value": 10000000
+      },
+      "min": {
+        "default": -8,
+        "value": -8
+      }
+    },
+    "porting_lib:step_height_addition": {
+      "enabled": false,
+      "max": {
+        "default": 512,
+        "value": 10000000
+      },
+      "min": {
+        "default": -512,
+        "value": -512
       }
     },
     "porting_lib:swim_speed": {
       "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
       "max": {
         "default": 1024,
         "value": 10000000
+      },
+      "min": {
+        "default": 0,
+        "value": 0
       }
     },
     "reach-entity-attributes:attack_range": {
       "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
       "max": {
         "default": 1024,
         "value": 10000000
+      },
+      "min": {
+        "default": -1024,
+        "value": -1024
+      }
+    },
+    "reach-entity-attributes:reach": {
+      "enabled": false,
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1024,
+        "value": -1024
+      }
+    },
+    "stepheightentityattribute:stepheight": {
+      "enabled": false,
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      },
+      "min": {
+        "default": -1024,
+        "value": -1024
       }
     }
   }
