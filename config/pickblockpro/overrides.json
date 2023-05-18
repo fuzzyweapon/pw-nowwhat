@@ -11,3 +11,4 @@
         "minecraft:ender_dragon": "minecraft:enderman_spawn_egg{EntityTag:{id:ender_dragon,CustomName:''},display:{Name:'{\"text\":\"Ender Dragon Spawn Egg\",\"color\":\"light_purple\",\"italic\":\"false\"}'}}"
     }
 }
+
