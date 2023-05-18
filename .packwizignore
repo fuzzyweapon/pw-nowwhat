@@ -8,3 +8,13 @@
 /.run
 /spec
 .shellspec*
+
+### MC Mod Configs ###
+/config/inventoryprofilesnext/now-what.duckdns.org/lockSlots.txt
+/config/AdvancedCompass/waypoints/
+/config/AdvancedCompass/mobs/
+/config/bclib/cache.json
+/config/byg/backups/
+/config/fabricenchantments/backupconfig.json
+/config/voicechat/username-cache.json
+

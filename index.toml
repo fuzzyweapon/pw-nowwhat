@@ -34,7 +34,7 @@ hash = "08a957402419732b00cd37c9ffd1162ff474bf9aa8a0f79d7ef64d6443fd99ea"
 
 [[files]]
 file = "config/MythicMountsConfig.json"
-hash = "76664c7cc4e9bcd29ca6459604244a0854838349268e7224935387824f33cc67"
+hash = "9e4c155e3a7ca0d78f58467dd39c0d433fcca96d583b3480ee15b5da64f3e251"
 
 [[files]]
 file = "config/VillagerNames/catNames.json"
@@ -110,7 +110,7 @@ hash = "b6b92c8b0c0e618875cc6f53caaf8d397f95f7193080f6b925143f62b37a26b1"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "8f1fa062e29ced5d449b7afba6c8faadbfb7512c8973dc9681aeb36d5124e544"
+hash = "d25bf76a48b572b929048d9e5a3417a7bb291cb8b7264809e908dd9c37a4d8e0"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -118,7 +118,7 @@ hash = "ac3150dc04269575f9d426a361ce34a13cb6c7cfb4f5b28fd63635cc6ed9f85b"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "86c4b019d66c2f234aef18422e7a008c1a935b721e446292b4297474279e0cf6"
+hash = "2c4946f4c2588ba0fdb69920f1d6d77dab9aba43ade6f9378b06a11507c18a7a"
 
 [[files]]
 file = "config/bclib/generator.json"
@@ -518,7 +518,7 @@ hash = "a99d5f5ce8a2803fe33631cf9d9ba3846954c8a857e9b39adf4975cd3e47b85b"
 
 [[files]]
 file = "config/croptopia/croptopia.conf"
-hash = "6baaae75d838430b59f116b281f9ad67420a86cc2b01dbc36495a5695ba0f6c2"
+hash = "e2acf56333fe4ea7be9bf4b9aaee87fccc69fe4a89f5ad8f83073418d8051fc4"
 
 [[files]]
 file = "config/crowdin.txt"
@@ -613,6 +613,18 @@ file = "config/effecttooltips.json"
 hash = "01993d23443937fdb1ac62e2f1707c00ffe5f0b94d45a1edbff927417fb49ebe"
 
 [[files]]
+file = "config/enchant_giver/config.json"
+hash = "7682c42f751b0a1c7ea4b9b939eb1ecbdcd637fd3b3f308ff83be4fcb3f9b6ca"
+
+[[files]]
+file = "config/enchant_giver/enchants.json"
+hash = "6aa5b357833e22ad7417b062478a981435c0101d1bcfd252868daa129782ea85"
+
+[[files]]
+file = "config/enchant_giver/example.yaml"
+hash = "e267c7612c2517b0e71c0c956b69d380615f09b53c2855b46242933c5c1357bf"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
 
@@ -675,6 +687,10 @@ hash = "5f32a3b9b89b709b7af2a9bf65f7f85c64a87078f18fab255b70b44936bc3c0e"
 [[files]]
 file = "config/fishontheline.json5"
 hash = "5f32a3b9b89b709b7af2a9bf65f7f85c64a87078f18fab255b70b44936bc3c0e"
+
+[[files]]
+file = "config/flywheel.json"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
 [[files]]
 file = "config/ftbbackups2.json"
@@ -741,11 +757,6 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "4b9c79ca1aba532ff0ed518c956556478ac40c1f07b872d420b8616b55fa9721"
 
 [[files]]
-file = "config/inventoryprofilesnext/now-what.duckdns.org/lockSlots.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-preserve = true
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "de0a1779ef6a1deda082c46d29580187e57cc97db72dd4a66d052d05b9eb5bee"
 
@@ -767,7 +778,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "61c79a6ab41e30eb1a374e5d27dcd6c80af264cd677079023d183a6b31d60049"
+hash = "dc68e6cd5442a5b9f7302e77dfcd02b3a3c94f22d120fa5bd6aa9f939c1bc4cf"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -851,7 +862,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "11cd1166a75ba7576f0dad1b288322c315b16aca937aac75a1a6f8b785de9cc5"
+hash = "8ed8651ec07dd63b642326eaff6f6297bfe1b03f0162da8a2003896024eda53b"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -991,7 +1002,7 @@ hash = "86e3591bc0bfde4176c1b9557cd2faa864321bb82c02201d71cdaa575eacfcb8"
 
 [[files]]
 file = "config/pickblockpro/overrides.json"
-hash = "617cecf76126240800305703fde889790efb6d7253b7dedc8775f3ced6fd66eb"
+hash = "459dd9e37e8f3a9022ae3842965ee5b8b874f6d143f9c164222547ed3bc10264"
 
 [[files]]
 file = "config/ping-wheel.json"
@@ -1019,7 +1030,7 @@ hash = "c71e2c809d52cb7a5d3e29ab040746b3aecc93bc68606f6d9bb457d58c3e2300"
 
 [[files]]
 file = "config/quicksort-custom.json5"
-hash = "134e2fc815515ffe2f9ff91c4c8510cfad6e91a0aeded33848e0a590d4dd408f"
+hash = "e7b7df950690c0a17fe7e893c1285f0f4ad20b3f45ee2c30eb51e72040911614"
 
 [[files]]
 file = "config/realisticsleep.json"
@@ -1112,7 +1123,7 @@ hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
 
 [[files]]
 file = "config/status/state-client.properties"
-hash = "36716f96ee385057eacfb4ae7b5d39d8061c2dd35c0f60cf8b3affca77cacfc8"
+hash = "d339acfc74b18839889d2a00f0c3c90c4b6f9141339bd774627bdcd9ffd03fe8"
 
 [[files]]
 file = "config/status/status-server.properties"
@@ -1204,7 +1215,7 @@ hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
 [[files]]
 file = "config/waila/megane.json"
-hash = "3f630270d986b2594eba02e0fa488e79dfaaa02da72b052ffb7dc3676d4c3385"
+hash = "23c16f8f42e1bd7313060b8dfe91211b5fe0bca7e5ac6566b34d62df507ef3da"
 
 [[files]]
 file = "config/waila/megane_modules.json"
@@ -1224,7 +1235,7 @@ hash = "4a90ec4bfe8f9679460ec450668f9b203fbd6b33e88bd8d94d22996dbd7d3453"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "b24bb89958bc9d446df34eb1614fd5600a8c59c1708287fdb4740ad27de69e43"
+hash = "9036fd5775afb28899f13707116e76dd624a818c01ae754f60e2137dad99e8c3"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -1236,7 +1247,7 @@ hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "37586a4189633087d7cf68b0e7aef540ad12cac41b5dfeeb5a29b12a7ec743b0"
+hash = "77410aa94961cbe3eb3e1a4c3cea110fb2eda42c0b48fe26875a22e65a49a540"
 
 [[files]]
 file = "config/xp_storage/books.json"
