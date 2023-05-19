@@ -1286,6 +1286,10 @@ file = "getoptions.sh"
 hash = "f5ca9d9ab5da94c5f6d330933557975ad55c1f83d28549abf4f8e0df4960f209"
 
 [[files]]
+file = "instance.json"
+hash = "d2dc7907644fbb306fd9e0981272f6f833225bc5f0958f9a6eceb2d777abf402"
+
+[[files]]
 file = "instance.png"
 hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
 
