@@ -733,10 +733,6 @@ file = "config/ibeeditor-common.json"
 hash = "9bc8aa58de86e9dec0b9bb62f8f0c0db1077c95ad4f35bef6a6b99550f2f8aac"
 
 [[files]]
-file = "config/ibeeditor-vault.dat"
-hash = "15ec7bf0b50732b49f8228e07d24365338f9e3ab994b00af08e5a3bffe55fd8b"
-
-[[files]]
 file = "config/identity.json5"
 hash = "9c1b1e3bf9a5d167df475b93ed45d6d161e901c7420d0a64de725fb33aa4db4e"
 
