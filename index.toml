@@ -1282,12 +1282,16 @@ file = "eula.txt"
 hash = "e1e0ff94d38a45eaa6798acc5599e45f9c6b47da6d304376eaa7ca1f7da4de40"
 
 [[files]]
+file = "fabric-server-launch.jar"
+hash = "042d6de4ecec26c09485b0af46d8d20663d04ce4c4d6afb0fb9acddcb942f20b"
+
+[[files]]
 file = "getoptions.sh"
 hash = "f5ca9d9ab5da94c5f6d330933557975ad55c1f83d28549abf4f8e0df4960f209"
 
 [[files]]
 file = "instance.json"
-hash = "a9256ad659174cdef32074a4a4d75024b2652d75c21c21cb6479e94d8b4f14ce"
+hash = "82698eccea8e6b8ea656f629265da7a712ffa414108fe44238a5c4dd4744d42e"
 
 [[files]]
 file = "instance.png"
@@ -2861,7 +2865,7 @@ metafile = true
 
 [[files]]
 file = "server.json"
-hash = "708d9e2e40812d40764b31945579e4b70402190b84550fdc1583276c0a173106"
+hash = "36f340657c79b1498ed7bc318361f9cc37c5531fa18139c8a1817c1a694d1787"
 
 [[files]]
 file = "server.png"

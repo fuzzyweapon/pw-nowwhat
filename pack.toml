@@ -1,13 +1,13 @@
 name = "NowWhat"
 author = "fuzzyweapon"
-version = "0.0.5"
+version = "0.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4e740ece1b58d9c637a59c38de82828e6141783710a9fc1c395d04af1a212ad7"
+hash = "702dd25ea6b660846799bb7e279b211439f9916fb3180b79fdd4afd046cb34b4"
 
 [versions]
-fabric = "0.14.17"
+fabric = "0.14.19"
 minecraft = "1.19.2"

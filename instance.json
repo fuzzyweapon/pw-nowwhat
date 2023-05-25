@@ -2,15 +2,15 @@
   "launcher": {
     "name": "NowWhat",
     "pack": "NowWhat",
-    "description": "It's a Brave New World!\n\nYou don't know why, but you're on this world (NowWhat) and something happened here long ago.  Seems like no one can pass on to the next phase of being, so it's time to make the most of NowWhat.\n\n---\n\nThe NowWhat modpack focuses on a balanced pack, prioritizing heavy optimization and centering around Create for its automation needs and a few extras for more casual flavor players.  It also offers some creator centered mods, as the NowWhat server the pack was made for is focused on worldbuilding (mostly the old fashioned way).\n\nMinecraft 1.19.2 with Fabric 0.14.17",
+    "description": "It's a Brave New World!\n\nYou don't know why, but you're on this world (NowWhat) and something happened here long ago.  Seems like no one can pass on to the next phase of being, so it's time to make the most of NowWhat.\n\n---\n\nThe NowWhat modpack focuses on a balanced pack, prioritizing heavy optimization and centering around Create for its automation needs and a few extras for more casual flavor players.  It also offers some creator centered mods, as the NowWhat server the pack was made for is focused on worldbuilding (mostly the old fashioned way).\n\nMinecraft 1.19.2 with Fabric 0.14.19",
     "packId": 0,
     "externalPackId": 0,
-    "version": "0.0.5",
+    "version": "0.0.6",
     "enableCurseForgeIntegration": true,
     "enableEditingMods": false,
     "loaderVersion": {
-      "version": "0.14.17",
-      "rawVersion": "0.14.17",
+      "version": "0.14.19",
+      "rawVersion": "0.14.19",
       "recommended": false,
       "type": "Fabric",
       "downloadables": {}
@@ -19,6 +19,7 @@
     "requiredPermGen": 0,
     "maximumMemory": 6144,
     "javaArguments": "-Xms4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:-UseBiasedLocking -XX:UseAVX=3 -XX:+UseStringDeduplication -XX:+UseFastUnorderedTimeStamps -XX:+UseAES -XX:+UseAESIntrinsics -XX:UseSSE=4 -XX:+UseFMA -XX:AllocatePrefetchStyle=1 -XX:+UseLoopPredicate -XX:+RangeCheckElimination -XX:+EliminateLocks -XX:+DoEscapeAnalysis -XX:+UseCodeCacheFlushing -XX:+SegmentedCodeCache -XX:+UseFastJNIAccessors -XX:+OptimizeStringConcat -XX:+UseCompressedOops -XX:+UseThreadPriorities -XX:+OmitStackTraceInFastThrow -XX:+TrustFinalNonStaticFields -XX:ThreadPriorityPolicy=1 -XX:+UseInlineCaches -XX:+RewriteBytecodes -XX:+RewriteFrequentPairs -XX:+UseNUMA -XX:-DontCompileHugeMethods -XX:+UseFPUForSpilling -XX:+UseFastStosb -XX:+UseNewLongLShift -XX:+UseVectorCmov -XX:+UseXMMForArrayCopy -XX:+UseXmmI2D -XX:+UseXmmI2F -XX:+UseXmmLoadAndClearUpper -XX:+UseXmmRegToRegMoveAll -Dfile.encoding=UTF-8 -Xlog:async -Djava.security.egd=file:/dev/urandom --add-modules jdk.incubator.vector",
+    "javaRuntimeOverride": "java-runtime-gamma",
     "account": "2604283e-e2a3-43d0-aac7-0831162c8deb",
     "enableDiscordIntegration": true,
     "enableCommands": true,
@@ -30,8 +31,6 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1684451267018,
-    "numPlays": 384,
     "lastExportName": "NowWhat",
     "lastExportVersion": "",
     "lastExportAuthor": "fuzzyweapon",
@@ -300,13 +299,13 @@
       }
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.14.17",
+      "name": "net.fabricmc:fabric-loader:0.14.19",
       "downloads": {
         "artifact": {
-          "path": "net/fabricmc/fabric-loader/0.14.17/fabric-loader-0.14.17.jar",
-          "sha1": "7b875f1276f3005ab1956c54a0bffded6558c16b",
-          "size": 825628,
-          "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.14.17/fabric-loader-0.14.17.jar"
+          "path": "net/fabricmc/fabric-loader/0.14.19/fabric-loader-0.14.19.jar",
+          "sha1": "4e9206c115a5493469a8d9ff97f3b3fc6c753c65",
+          "size": 825716,
+          "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.14.19/fabric-loader-0.14.19.jar"
         }
       }
     },
@@ -1476,55 +1475,6 @@
       ]
     },
     {
-      "name": "com.mojang:text2speech:1.13.9",
-      "downloads": {
-        "artifact": {
-          "path": "com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar",
-          "sha1": "5f4e3a6ef86cb021f7ca87ca192cddb50c26eb59",
-          "size": 12123,
-          "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar"
-        }
-      }
-    },
-    {
-      "name": "com.mojang:text2speech:1.13.9:natives-windows",
-      "downloads": {
-        "artifact": {
-          "path": "com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-windows.jar",
-          "sha1": "7a90898b29e5c72f90ba6ebe86fa78a6afd7d3eb",
-          "size": 81379,
-          "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-windows.jar"
-        }
-      },
-      "rules": [
-        {
-          "action": "allow",
-          "os": {
-            "name": "windows"
-          }
-        }
-      ]
-    },
-    {
-      "name": "com.mojang:text2speech:1.13.9:natives-linux",
-      "downloads": {
-        "artifact": {
-          "path": "com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-linux.jar",
-          "sha1": "6c63ecb3b6408dcfdde6440c9ee62c060542af33",
-          "size": 7833,
-          "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-linux.jar"
-        }
-      },
-      "rules": [
-        {
-          "action": "allow",
-          "os": {
-            "name": "linux"
-          }
-        }
-      ]
-    },
-    {
       "name": "ca.weblite:java-objc-bridge:1.1",
       "downloads": {
         "artifact": {
@@ -1539,6 +1489,150 @@
           "action": "allow",
           "os": {
             "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "com.mojang:text2speech:1.16.7",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/text2speech/1.16.7/text2speech-1.16.7.jar",
+          "sha1": "ee4095669061d1fe4bce5fea23d69d1520bc2d58",
+          "size": 12279,
+          "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.16.7/text2speech-1.16.7.jar"
+        }
+      }
+    },
+    {
+      "name": "org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-arm64",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows-arm64.jar",
+          "sha1": "beda65ee503443e60aa196d58ed31f8d001dc22a",
+          "size": 123808,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows-arm64.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-arm64",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar",
+          "sha1": "cae85c4edb219c88b6a0c26a87955ad98dc9519d",
+          "size": 114250,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-windows-arm64",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-arm64.jar",
+          "sha1": "40d65f1a7368a2aa47336f9cb69f5a190cf9975a",
+          "size": 505234,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-arm64.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-arm64",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows-arm64.jar",
+          "sha1": "527d78f1e9056aff3ed02ce93019c73c5e8f1721",
+          "size": 82445,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows-arm64.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-stb:3.3.1:natives-windows-arm64",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows-arm64.jar",
+          "sha1": "fde63cdd2605c00636721a6c8b961e41d1f6b247",
+          "size": 216848,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows-arm64.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-arm64",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar",
+          "sha1": "83a5e780df610829ff3a737822b4f931cffecd91",
+          "size": 109139,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl:3.3.1:natives-windows-arm64",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows-arm64.jar",
+          "sha1": "0f46cadcf95675908fd3a550d63d9d709cb68998",
+          "size": 130064,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows-arm64.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
           }
         }
       ]

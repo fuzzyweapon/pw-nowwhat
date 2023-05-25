@@ -20,10 +20,10 @@ The NowWhat modpack focuses on a balanced pack, prioritizing heavy optimization 
 3.  Click `Vanilla Packs` tab on the right
 4.  Enter the following information to create a new instance:
     - Instance Name:  `NowWhat`
-    - Description:  `Minecraft 1.19.2, Fabric 0.14.17`
+    - Description:  `Minecraft 1.19.2, Fabric 0.14.19`
     - Minecraft Version:  `1.19.2`
     - Loader?:  `Fabric`
-    - Loader Version:  `0.14.17`
+    - Loader Version:  `0.14.19`
 5.  Click `Create Instance` button
 6.  Click the `Instances` tab
 7.  In NowWhat `Settings` > `Commands`, set the following:
