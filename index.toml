@@ -1287,7 +1287,7 @@ hash = "f5ca9d9ab5da94c5f6d330933557975ad55c1f83d28549abf4f8e0df4960f209"
 
 [[files]]
 file = "instance.json"
-hash = "d2dc7907644fbb306fd9e0981272f6f833225bc5f0958f9a6eceb2d777abf402"
+hash = "a9256ad659174cdef32074a4a4d75024b2652d75c21c21cb6479e94d8b4f14ce"
 
 [[files]]
 file = "instance.png"
@@ -1966,6 +1966,11 @@ metafile = true
 [[files]]
 file = "mods/hotbarcycle.pw.toml"
 hash = "988c231b5c860ca692c927421e8a3b19c597b0ca76dda297f665befb2fee0973"
+metafile = true
+
+[[files]]
+file = "mods/ibe-editor.pw.toml"
+hash = "cd6f66b226808eee933abe9943d8a37d7b89ce0fbe645ba6484ae3106bb49f89"
 metafile = true
 
 [[files]]
@@ -2856,7 +2861,7 @@ metafile = true
 
 [[files]]
 file = "server.json"
-hash = "3b33319e23cbbddd7494f25c003df66081b0ab04bf2d4517ba92bcd6105a96cd"
+hash = "708d9e2e40812d40764b31945579e4b70402190b84550fdc1583276c0a173106"
 
 [[files]]
 file = "server.png"
