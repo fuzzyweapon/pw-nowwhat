@@ -1107,7 +1107,7 @@ hash = "3dda42cdfb503e212618fd6947ba4f268f739bcaf979895571569428556e0962"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "365fb49778b7c369f3f9e34c17ac7fc7500e2e1d76974e3e054f28bef8f8afe3"
+hash = "a88d83b4ba3e9fdf9a16488b1ccb58b2208f47b0ff9b61e893a7880c68419bf2"
 
 [[files]]
 file = "config/sprout.json"
