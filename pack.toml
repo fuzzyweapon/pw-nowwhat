@@ -1,6 +1,6 @@
 name = "NowWhat"
 author = "fuzzyweapon"
-version = "0.0.7-a0"
+version = "0.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
