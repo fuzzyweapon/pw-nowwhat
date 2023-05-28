@@ -2,7 +2,7 @@
   "name": "NowWhat",
   "pack": "NowWhat",
   "packId": 0,
-  "version": "0.0.7",
+  "version": "0.0.8",
   "isPatchedForLog4Shell": true,
   "javaVersion": {
     "component": "java-runtime-gamma",
