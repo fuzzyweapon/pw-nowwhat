@@ -5,11 +5,11 @@
     "description": "It's a Brave New World!\n\nYou don't know why, but you're on this world (NowWhat) and something happened here long ago.  Seems like no one can pass on to the next phase of being, so it's time to make the most of NowWhat.\n\n---\n\nThe NowWhat modpack focuses on a balanced pack, prioritizing heavy optimization and centering around Create for its automation needs and a few extras for more casual flavor players.  It also offers some creator centered mods, as the NowWhat server the pack was made for is focused on worldbuilding (mostly the old fashioned way).\n\nMinecraft 1.19.2 with Fabric 0.14.19",
     "packId": 0,
     "externalPackId": 0,
-    "version": "0.0.9",
+    "version": "0.1.0",
     "enableCurseForgeIntegration": true,
     "enableEditingMods": false,
     "loaderVersion": {
-      "version": "0.0.9",
+      "version": "0.1.0",
       "rawVersion": "0.14.19",
       "recommended": false,
       "type": "Fabric",
