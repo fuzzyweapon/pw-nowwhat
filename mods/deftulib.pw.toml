@@ -1,13 +1,13 @@
 name = "DeftuLib"
-filename = "DeftuLib-1.19.2-1.5.4.jar"
+filename = "DeftuLib-1.19.2-1.5.7.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "6958dcd3ecc8837a112353e2d72ab85d73416e21"
+hash = "b7bdd120d11266771982815899f8b05fc8aaa2f6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4427551
+file-id = 4541398
 project-id = 695205
