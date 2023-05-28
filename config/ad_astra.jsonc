@@ -107,7 +107,7 @@
         "fluidConversionEnergyPerTick": 5,
         "tankSize": 486000,
         // How many blocks the distributor can distribute oxygen in. Be careful increasing this number, as it can reduce server performance significantly. If you are adamant about increasing this value, consider increasing the Oxygen Loader refresh ticks so the server is not constantly checking thousands of blocks.
-        "maxBlockChecks": 2000,
+        "maxBlockChecks": 3000,
         // How often the oxygen loader checks if the structure is sealed. Performing this operation too often can kill server TPS, so be wary.
         "refreshTicks": 60,
         // Increases the oxygen requirements as the distributor covers more blocks.
@@ -128,11 +128,11 @@
     },
     "energizer": {
         "maxEnergy": 2000000,
-        "energyPerTick": 170
+        "energyPerTick": 600
     },
     "cryoFreezer": {
         "maxEnergy": 30000,
-        "energyPerTick": 24,
+        "energyPerTick": 18,
         "tankSize": 243000
     }
 }

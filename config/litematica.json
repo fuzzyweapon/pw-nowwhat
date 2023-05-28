@@ -22,7 +22,7 @@
     "debugLogging": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
-    "easyPlaceMode": true,
+    "easyPlaceMode": false,
     "easyPlaceSinglePlayerHandling": true,
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceVanillaReach": false,

@@ -29,8 +29,8 @@
   "unfocusedInput": false,
   "virtualMouse": false,
   "virtualMouseSkin": "DEFAULT_LIGHT",
-  "controllerID": 0.0,
-  "secondControllerID": -1.0,
+  "controllerID": 0,
+  "secondControllerID": -1,
   "controllerType": "DEFAULT",
   "mouseScreens": [
     "me.jellysquid.mods.sodium.client.gui",

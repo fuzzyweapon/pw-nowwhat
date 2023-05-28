@@ -1287,7 +1287,7 @@ hash = "f5ca9d9ab5da94c5f6d330933557975ad55c1f83d28549abf4f8e0df4960f209"
 
 [[files]]
 file = "instance.json"
-hash = "415056779ed68acbf2fcbec7d4b5985325b80bb6f4d6aa3cd0cb61b570915923"
+hash = "c60e5aeb7de6760f7c48e8f3b77ed96641e9f4d29ea1a2d26462b5c78f02bbd3"
 
 [[files]]
 file = "instance.png"
@@ -1395,7 +1395,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "38269054f8f43ef1a20e9c99e4d0c83801d773283e1aca3a12cd5ab2c80ea076"
+hash = "17091bdf405677bcff132bf8283ad6dd9d103ee5b24032d7c450ce3344bfcaf8"
 metafile = true
 
 [[files]]
@@ -1405,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "9c802a681377e421cabb2dee43e00afa264c1f6742f618fb73002a982c7019b2"
+hash = "66e479279fa3c067e9905f1335dc12d454a76cc4cc4b3316163ebd00fce9bcb8"
 metafile = true
 
 [[files]]
@@ -1505,7 +1505,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "17d061c4b8588f7dbb92db31c8e13507df6a0dbc843afcfa57c79d157dab914c"
+hash = "15b9fa68ee45edacd66efbc5b5365a566610f32af3c88248a12bb740cbd9c87b"
 metafile = true
 
 [[files]]
@@ -1535,7 +1535,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm-of-undying-fabric.pw.toml"
-hash = "d9ebd61b15db17061ca3ace40f4053b2c15f216e631a14eee887db64d3eeb326"
+hash = "ecda79f28dc7b1a3432dc301198d0923ab6b2290622ae57cbc89ad90fecdf510"
 metafile = true
 
 [[files]]
@@ -1646,6 +1646,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads-fabric.pw.toml"
 hash = "f9cad82f631c314568ddda4455ec597be85017a69f52617721dec34435852753"
+metafile = true
+
+[[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "18a9ee805a86f5491660e70bbf61c31bf06f80caa2fe2d9d32fb00fc08f5f571"
 metafile = true
 
 [[files]]
@@ -2000,7 +2005,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "25bec58732be922ba132680274d123b84dfa9c05de2c9768229a4a40874c504b"
+hash = "403c20662962a989c9a2c3b6ab070262213ad17b389396eb1e2bc57c6e78543c"
 metafile = true
 
 [[files]]
@@ -2100,7 +2105,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-wine.pw.toml"
-hash = "01c3c022ee34d6648d52ada3cb908e4406346e69ddc9618f5893fc0c85c7ea3e"
+hash = "69be3043c53e2d966948a8dd880471c2a9bb17dbcf412500e15f0e12b60f3942"
 metafile = true
 
 [[files]]
@@ -2110,7 +2115,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "53fff73a4ccc80cf92ed582f031449df6cc0aaf4afa2617409fa9c045612ac96"
+hash = "23d23b1e10b506813ecbeb8dd9de2fef506d09c370e9d0111b1e38b91bc4a224"
 metafile = true
 
 [[files]]
@@ -2255,7 +2260,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "6dbabf2b471330d1067b22317b277c6cdbba600b56df51c5ccf6a158b8a71cc5"
+hash = "16028256de8bb7d44dfe511461f1d904b65769cfe955f02c0a39fb93d21e76b9"
 metafile = true
 
 [[files]]
@@ -2280,7 +2285,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "4610d249c3ee274fc579e3d507e78249777d34a231eb1873f297029f866d7a67"
+hash = "47c9ccaf0ec6051ee1b21f4b8a12f4e0ab3f209685170e38744265b386d7fdbf"
 metafile = true
 
 [[files]]
@@ -2365,7 +2370,7 @@ metafile = true
 
 [[files]]
 file = "mods/omni-hopper.pw.toml"
-hash = "eff74a75bc97be0854a3807807d21cbd206c120c1676a043f431db17e36a5fab"
+hash = "9d156c005d8ba0736e3a4a65758dbf91389c3b074a82cfd25d14e05039f9466d"
 metafile = true
 
 [[files]]
@@ -2650,7 +2655,7 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "ed9bab4bcf4e3e20c9365e310a2bad590c68f6fb2165580e3b855ec0d54b830f"
+hash = "30471118ea9cb3b096dcaefde2e2bc613fd0a4c6535cb74c340c4df111c44d92"
 metafile = true
 
 [[files]]
@@ -2861,7 +2866,7 @@ metafile = true
 
 [[files]]
 file = "server.json"
-hash = "2b08b111caa84f0e7956bbd292e5b2d7ff4afa5bab9f113c75972cbea137e14b"
+hash = "388d189a111c70769a6143d40388d342a16d5c64e9a12f0107040ed3052f3fde"
 
 [[files]]
 file = "server.png"

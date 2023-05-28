@@ -1,5 +1,5 @@
 {
-	"minimumCameraDepth": 0.0,
+	"minimumCameraDepth": 3.051850947599719E-5,
 	"keepAllScalesOnRespawn": false,
 	"scalesKeptOnRespawn": [],
 	"accurateNetherPortals": true,

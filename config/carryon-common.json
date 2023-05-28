@@ -154,7 +154,11 @@
       "ftbquests:*",
       "waystones:*",
       "contact:*",
-      "framedblocks:*"
+      "framedblocks:*",
+      "securitycraft:*",
+      "forgemultipartcbe:*",
+      "integrateddynamics:cable",
+      "mekanismgenerators:wind_generator"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
@@ -176,7 +180,10 @@
       "pixelmon:*",
       "mocreatures:*",
       "quark:totem",
-      "vehicle:*"
+      "vehicle:*",
+      "securitycraft:*",
+      "taterzens:npc",
+      "easy_npc:*"
     ],
     "//forbiddenStacking": "Entities that cannot have other entities stacked on top of them",
     "forbiddenStacking": [

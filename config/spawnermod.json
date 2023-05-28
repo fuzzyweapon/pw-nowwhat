@@ -202,6 +202,8 @@
     "shroom_dealers:amethyst_deceiver_dealer": 0,
     "shroom_dealers:bay_bolete_dealer": 0,
     "shroom_dealers:champignon_dealer": 0,
-    "shroom_dealers:toadstool_dealer": 0
+    "shroom_dealers:toadstool_dealer": 0,
+    "vinery:mule": 0,
+    "vinery:wandering_winemaker": 0
   }
 }

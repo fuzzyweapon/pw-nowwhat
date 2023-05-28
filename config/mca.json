@@ -4,6 +4,7 @@
   "overwriteOriginalVillagers": true,
   "moddedVillagerWhitelist": [],
   "overwriteOriginalZombieVillagers": true,
+  "overwriteAllZombiesWithZombieVillagers": false,
   "moddedZombieVillagerWhitelist": [],
   "babyZombieChance": 0.25,
   "villagerTagsHacks": true,
@@ -29,7 +30,7 @@
   "villagerMaxAgeTime": 384000,
   "villagerMaxHealth": 20,
   "allowVillagerTeleporting": false,
-  "villagerMinTeleportationDistance": 144.0,
+  "villagerMinTeleportationDistance": 64.0,
   "childInitialHearts": 100,
   "greetHeartsThreshold": 75,
   "greetAfterDays": 1,
@@ -73,6 +74,7 @@
   "innSpawnsCultists": true,
   "innSpawnsWanderingTraders": true,
   "fractionOfVanillaVillages": 0.0,
+  "fractionOfVanillaZombies": 0.0,
   "minimumBuildingsToBeConsideredAVillage": 3,
   "villagerDimensionBlacklist": [],
   "allowedSpawnReasons": [
@@ -112,6 +114,7 @@
   "forceVillagerPlayerModel": false,
   "allowLimitedPlayerEditor": true,
   "allowFullPlayerEditor": false,
+  "allowPlayerSizeAdjustment": true,
   "useModernUSANamesOnly": false,
   "guardsTargetEntities": {
     "minecraft:creeper": -1,

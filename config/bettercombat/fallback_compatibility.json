@@ -27,8 +27,12 @@
       "weapon_attributes": "bettercombat:glaive"
     },
     {
-      "item_id_regex": "spear|lance",
+      "item_id_regex": "spear",
       "weapon_attributes": "bettercombat:spear"
+    },
+    {
+      "item_id_regex": "lance",
+      "weapon_attributes": "bettercombat:lance"
     },
     {
       "item_id_regex": "anchor",
