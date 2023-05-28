@@ -34,7 +34,7 @@ hash = "08a957402419732b00cd37c9ffd1162ff474bf9aa8a0f79d7ef64d6443fd99ea"
 
 [[files]]
 file = "config/MythicMountsConfig.json"
-hash = "76664c7cc4e9bcd29ca6459604244a0854838349268e7224935387824f33cc67"
+hash = "b4f16160e5a79319e9d4d9ca326361b5baaa20f97912ea9cceea47bcabd1da97"
 
 [[files]]
 file = "config/VillagerNames/catNames.json"
@@ -1287,7 +1287,7 @@ hash = "f5ca9d9ab5da94c5f6d330933557975ad55c1f83d28549abf4f8e0df4960f209"
 
 [[files]]
 file = "instance.json"
-hash = "c83b0587a731c715191e06cb48d6541c9f76919c9be4e89e61dea6034a7fcf63"
+hash = "b68e3248830157fcfb79efdd8d3cb80264ab23eebd5fbf3f47e594faa1b41538"
 
 [[files]]
 file = "instance.png"
@@ -2866,7 +2866,7 @@ metafile = true
 
 [[files]]
 file = "server.json"
-hash = "ac31222d774b133e13e2a1bdfa50f2875065033fb4f6663b208d1ecf8caa7c56"
+hash = "d4a3a66b53f468ac3d5a46e4d00b4a4932eebaa1c9b83f16053c60d1f783b236"
 
 [[files]]
 file = "server.png"
