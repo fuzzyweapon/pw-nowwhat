@@ -1,0 +1,92 @@
+{
+  "moduleList": [
+    {
+      "name": "icon",
+      "display": true,
+      "context": "icon.png"
+    },
+    {
+      "name": "text",
+      "display": true,
+      "context": "Minecraft - NowWhat"
+    },
+    {
+      "name": "text",
+      "display": true,
+      "context": "v0.0.9"
+    },
+    {
+      "name": "mods",
+      "display": false
+    },
+    {
+      "name": "clock",
+      "display": false,
+      "context": "HH:mm:ss"
+    },
+    {
+      "name": "session",
+      "display": true
+    },
+    {
+      "name": "day",
+      "display": true
+    },
+    {
+      "name": "time",
+      "display": true
+    },
+    {
+      "name": "weather",
+      "display": false
+    },
+    {
+      "name": "fps",
+      "display": false
+    },
+    {
+      "name": "ping",
+      "display": false
+    },
+    {
+      "name": "memory",
+      "display": false
+    },
+    {
+      "name": "dimension",
+      "display": false
+    },
+    {
+      "name": "biome",
+      "display": true
+    },
+    {
+      "name": "position",
+      "display": false
+    },
+    {
+      "name": "chunk",
+      "display": false
+    },
+    {
+      "name": "facing",
+      "display": false
+    },
+    {
+      "name": "looking_at",
+      "display": false
+    },
+    {
+      "name": "property",
+      "display": false
+    },
+    {
+      "name": "target",
+      "display": false
+    },
+    {
+      "name": "target_health",
+      "display": false
+    }
+  ]
+}

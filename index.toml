@@ -74,7 +74,7 @@ hash = "b0112327c0ad37388c5a4816b004ed45b7660d8c84336ea3f2095176a40470eb"
 
 [[files]]
 file = "config/ad_astra.jsonc"
-hash = "1f6a6446603806c767175528047c8f996152c0551a9dfdc5b5fd36cb8d3aa137"
+hash = "e69eaf8bd9184f07f7682c8d1280c420f2a966dce00004182204a267ec5e29f0"
 
 [[files]]
 file = "config/advancedcompass.json"
@@ -111,6 +111,14 @@ hash = "b6b92c8b0c0e618875cc6f53caaf8d397f95f7193080f6b925143f62b37a26b1"
 [[files]]
 file = "config/attributefix.json"
 hash = "d25bf76a48b572b929048d9e5a3417a7bb291cb8b7264809e908dd9c37a4d8e0"
+
+[[files]]
+file = "config/barista/bar.json"
+hash = "68dfdc1df42a09847a1e513095300d9928e78ab20d96d16241affb77935b0257"
+
+[[files]]
+file = "config/barista/icon/icon.png"
+hash = "7574dcf624c5a0b2660574977e6491fa28711f68f076b941abb63d8bfadacf51"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -430,7 +438,7 @@ hash = "54a5046ada0910acb9fb2c2b7781c553a2a5151badbff4966041dbb1d1e8dd42"
 
 [[files]]
 file = "config/chunksfadein.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "bcccf052f5f1ab3fa9318b90dd361a9be48a4a962a30c53c11872618844830d4"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -774,7 +782,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "dc68e6cd5442a5b9f7302e77dfcd02b3a3c94f22d120fa5bd6aa9f939c1bc4cf"
+hash = "4d3af16d4fa23bd1055c4a9d7aafb5f3c5cf0d21aee2f2031ce88f7c8ebfb3f4"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -955,6 +963,14 @@ hash = "b046097d4111a7b44f862d7c3372c193df3072b2ff73af32d88b4fbe9c141b97"
 [[files]]
 file = "config/observable.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/origins-randomiser.json"
+hash = "c67318ff7ca4608cb35a3cc3bb52a81526abdad381d0b727ac5131354e084b38"
+
+[[files]]
+file = "config/origins_server.json"
+hash = "478f83032bf85f6aba2fbe2b4153fdd08cac2683b17eeb21eebd0afab06a59ed"
 
 [[files]]
 file = "config/overweight_farming.json"
@@ -1231,7 +1247,7 @@ hash = "4a90ec4bfe8f9679460ec450668f9b203fbd6b33e88bd8d94d22996dbd7d3453"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "a6c8a9cce97fccac4a5b29bb5e8849f8791d88d7a2cf472c3fd54ec66949eb1b"
+hash = "da642e16aadf5a0e4ce6e0ca759a56bba97d2a9c069259ca7474503eb37cb4f7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -1243,7 +1259,7 @@ hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "c0da1305f9166982a184c48da556542f22fe339cd1da5f9c2d45fad0f2758728"
+hash = "016a79838b909f1980f1209bc7ba0394007feeeb3951bc9d3e7e86b481fd1768"
 
 [[files]]
 file = "config/xp_storage/books.json"
@@ -1376,6 +1392,11 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "ccfa776ceb18c8682c928cc2aa3dc9aafac0d467667f09b8f2d15694f65a79ec"
+metafile = true
+
+[[files]]
+file = "mods/barista.pw.toml"
+hash = "b81d6fb258b7477417c5161cc36bc63072e3810219d777dba01cb8d1384f7de0"
 metafile = true
 
 [[files]]
@@ -1831,6 +1852,16 @@ metafile = true
 [[files]]
 file = "mods/extra-alchemy.pw.toml"
 hash = "27ab71c3e408e9f9779eef5e16a158e0f0c70fd1f417f9102e2c03c05ae21e89"
+metafile = true
+
+[[files]]
+file = "mods/extra-classes-origins.pw.toml"
+hash = "fc5052ae7aba297e3978d60f653ddcd4104a6910dceef8d774acea92ab29305c"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "186987bc3f451d929e42bab5dc391ca07a6badd7ade2c3ac7c4b6a291d6f44b5"
 metafile = true
 
 [[files]]
@@ -2374,6 +2405,21 @@ hash = "9d156c005d8ba0736e3a4a65758dbf91389c3b074a82cfd25d14e05039f9466d"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "6347f1b4fd8c1a92cb4c2504d352807d1ff817f1e5146156e1135a2b6f473e28"
+metafile = true
+
+[[files]]
+file = "mods/origins-randomiser.pw.toml"
+hash = "9144368c1b4142c1e808e8a8f3a4f5fc742067015b513177bf75629698abdfc0"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "f6dfb523f158c40358b7050b996a773aed56079423bb587f103a63ec8c3316d6"
+metafile = true
+
+[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "6bed49d57e4a5dea5b7e014602018005d163ea30fdf99be6f0cc5b3853504385"
 metafile = true
@@ -2531,6 +2577,11 @@ metafile = true
 [[files]]
 file = "mods/retraining.pw.toml"
 hash = "ebd08d40884be14b2286cfd7afcf23783467955aa1e2345a458330560fa3a62e"
+metafile = true
+
+[[files]]
+file = "mods/rpg-origins.pw.toml"
+hash = "0ed12f79197e2ec34fca9c8fc4540d96398132053d2a7f5e523b571113b04e64"
 metafile = true
 
 [[files]]

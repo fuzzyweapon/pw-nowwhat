@@ -16,3 +16,6 @@ push = true
 "server.json" = [
     '"version": "{version}",'
 ]
+"config/barista/bar.json" = [
+    '"context": "v{version}"'
+]
