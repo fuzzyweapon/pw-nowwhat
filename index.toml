@@ -118,7 +118,7 @@ hash = "72d7564ee7e2ac89c317d7e8cabd7f64762abbadb2a72be8bdb9311d7e3a7b53"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "4c2cce733264ac0f7e5c0852d293f73d4675797f7092b9a0691101e771f8dbda"
+hash = "901eae5fcfc69e59a42f20ee4b8b15abe3a4b7b5affd00b1cb485b5ae90ebc80"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -1307,7 +1307,7 @@ hash = "f5ca9d9ab5da94c5f6d330933557975ad55c1f83d28549abf4f8e0df4960f209"
 
 [[files]]
 file = "instance.json"
-hash = "9ac838206659627d4f315aedbcfadd2d01bdf22adac77cbf66cd8aceb92f3652"
+hash = "2c704506b0c48c0d595271eee63d3e58c21696614018fdd70f716da5c804a9a6"
 
 [[files]]
 file = "instance.png"
@@ -2931,7 +2931,7 @@ metafile = true
 
 [[files]]
 file = "server.json"
-hash = "7a56dd3cd7138b2a137ce0cf5dd2fda2e6f0b94321e1c4c2f706bcf404675b20"
+hash = "ebe6d3f973aa9d0c3e1c68f3d6073fc057ab1ae5d1a8204416265bae3d1047d0"
 
 [[files]]
 file = "server.png"
