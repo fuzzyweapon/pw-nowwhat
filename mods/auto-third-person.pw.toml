@@ -1,0 +1,13 @@
+name = "Auto Third Person"
+filename = "auto_third_person-fabric-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60e61241298bb61d7b4397456938a06587cb37d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3922616
+project-id = 297818

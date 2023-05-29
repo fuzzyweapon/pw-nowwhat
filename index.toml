@@ -113,6 +113,10 @@ file = "config/attributefix.json"
 hash = "d25bf76a48b572b929048d9e5a3417a7bb291cb8b7264809e908dd9c37a4d8e0"
 
 [[files]]
+file = "config/auto_third_person.cfg"
+hash = "72d7564ee7e2ac89c317d7e8cabd7f64762abbadb2a72be8bdb9311d7e3a7b53"
+
+[[files]]
 file = "config/barista/bar.json"
 hash = "4c2cce733264ac0f7e5c0852d293f73d4675797f7092b9a0691101e771f8dbda"
 
@@ -1382,6 +1386,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "c03a4530cf7645c69c164d1c6808e3d576b6d807a41569ff0c3619e9458da5c4"
+metafile = true
+
+[[files]]
+file = "mods/auto-third-person.pw.toml"
+hash = "1f96a2c40516f0c630ad753b6c0a125db294e1299ff2c068042d0bd42bcab825"
 metafile = true
 
 [[files]]
@@ -2742,6 +2751,11 @@ metafile = true
 [[files]]
 file = "mods/the-mighty-architectury.pw.toml"
 hash = "8798d62150aa63a88f298f488ba4d70417d73613000f8a1ade0fef00dad64e90"
+metafile = true
+
+[[files]]
+file = "mods/third-person-crosshair-fabric.pw.toml"
+hash = "3108c491cfe77392ccf81032ac40ef379072146969ec1e608a7d2543cd5ad9a5"
 metafile = true
 
 [[files]]
