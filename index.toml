@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-third-person.pw.toml"
-hash = "1f96a2c40516f0c630ad753b6c0a125db294e1299ff2c068042d0bd42bcab825"
+hash = "17decaa812f559fbb2e351e55850bff3c01511781fe0ab35688c3f75f6d2f379"
 metafile = true
 
 [[files]]
@@ -2755,7 +2755,7 @@ metafile = true
 
 [[files]]
 file = "mods/third-person-crosshair-fabric.pw.toml"
-hash = "3108c491cfe77392ccf81032ac40ef379072146969ec1e608a7d2543cd5ad9a5"
+hash = "4bea28f50f3e4c74f1b7fb45ef7afbbae91fb47574a004bf33b4a7ffb3e12b47"
 metafile = true
 
 [[files]]
