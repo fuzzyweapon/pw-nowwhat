@@ -1166,6 +1166,10 @@ file = "config/sync.json"
 hash = "add10fc372d8695666b9efbdf2ef3eeaed3d76c741efd11e785fc9a0ccdd17b7"
 
 [[files]]
+file = "config/syncmatica/config.json"
+hash = "01cb89e871e5db97f329ab4197199824722a7a0f1757ac4bb3e7b1c2ff176918"
+
+[[files]]
 file = "config/tempad.json"
 hash = "10aee7125be54dbc1ca906e3505e5074c84790d04c0836ae8a22bc3db259218c"
 
