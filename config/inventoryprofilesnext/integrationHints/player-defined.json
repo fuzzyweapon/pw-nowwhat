@@ -1,0 +1,58 @@
+{
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 166,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -14
+            },
+            "SORT": {
+                "top": -14
+            },
+            "SORT_COLUMNS": {
+                "top": -14
+            },
+            "SORT_ROWS": {
+                "top": -14
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 377,
+                "top": 52
+            },
+            "SETTINGS": {
+                "horizontalOffset": 364,
+                "top": 37
+            }
+        }
+    },
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 346,
+                "top": 152
+            },
+            "SETTINGS": {
+                "horizontalOffset": 334,
+                "top": 137
+            }
+        }
+    },
+    "com.github.clevernucleus.playerex.client.gui.ExScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 326,
+                "top": 69
+            },
+            "SETTINGS": {
+                "horizontalOffset": 326,
+                "top": 43
+            }
+        }
+    },
+    "com.github.clevernucleus.playerex.factory.ExScreenFactory$Handler": {
+        "ignore": true
+    }
+}
