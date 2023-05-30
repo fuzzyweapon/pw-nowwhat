@@ -721,6 +721,10 @@ file = "config/fwaystones/config.json5"
 hash = "1a8102a2b1e5846a2a9dac0bae35c643dfe8112e19abd9902a61aef59f266068"
 
 [[files]]
+file = "config/gamecontrollerdatabase.txt"
+hash = "d95142b1a6a55e87be2585821fa21b8239cb5cd2b17b452a4b224d199327e4aa"
+
+[[files]]
 file = "config/haema.toml"
 hash = "4bb1c724bf7f03edded45a6e2e01cbb816e6949d4a560886762472e77e1d4248"
 
