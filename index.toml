@@ -433,10 +433,6 @@ file = "config/chat_heads.json5"
 hash = "ec0ea3b472c5ca01df52cf14e5fe3184999cbdf060ec95d6e1b4ac287dc816ee"
 
 [[files]]
-file = "config/chatheads.json5"
-hash = "1988205592d8faaa985908893c8fa784908e799bd606ac1920f23cc5aba279fc"
-
-[[files]]
 file = "config/chicken_nerf.json"
 hash = "54a5046ada0910acb9fb2c2b7781c553a2a5151badbff4966041dbb1d1e8dd42"
 
@@ -1548,11 +1544,6 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "ea0650e20f96f730434d096e436e9801470caa95bf16ab2eb13a6240fd7c45be"
-metafile = true
-
-[[files]]
-file = "mods/chatheads.pw.toml"
-hash = "6c582c5d9d902ef4485c16c0e332ae69efcb58316f1622b9c02ff1812c05e3a3"
 metafile = true
 
 [[files]]
