@@ -514,11 +514,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "a5eb2e7c372c0a03bf96a3455e381ba61ab852f2b79122cdde0326d93a694f04"
+hash = "371ed627e6dfbb280d1aef811f302c9f060c316b58160e989868ebf87b1a023d"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "76707e79487581023226b0da6124601d88d0dd46dedcbe889cd2248ea0ab4a2e"
+hash = "2732aa2dba8a9762b517665b9a67219647d81d4df93d9e1da3fbeaa7d0be2708"
 
 [[files]]
 file = "config/createdeco-client.toml"
