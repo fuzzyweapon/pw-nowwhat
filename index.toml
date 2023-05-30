@@ -30,7 +30,7 @@ hash = "bedb8cbefc0764d85fc7eac82335dcb1f0425879ca2ebce293d7bbec8cf99281"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "08a957402419732b00cd37c9ffd1162ff474bf9aa8a0f79d7ef64d6443fd99ea"
+hash = "3cae4160f051116ffa17f70d205b8aee2b8576b44476ec5cdb47a98d102a25da"
 
 [[files]]
 file = "config/MythicMountsConfig.json"
