@@ -1,5 +1,23 @@
 {
     "ModSettings": {
+        "restock_hotbar": {
+            "value": true
+        },
+        "for_modpack_devs": true,
         "first_run": false
+    },
+    "AutoRefillSettings": {
+        "auto_refill_prefer_smaller_stacks": true,
+        "tool_damage_threshold": 5,
+        "type_visual_durability_notification": "SUBTITLE",
+        "type_visual_replace_success_notification": "SUBTITLE"
+    },
+    "Tweaks": {
+        "prevent_close_gui_drop_item": {
+            "value": true
+        },
+        "swipe_move_crafting_result_slot": {
+            "value": true
+        }
     }
 }
