@@ -453,6 +453,10 @@ file = "config/chunkyborder/config.json"
 hash = "7374422376d4276101600b505d184615afa3414a07c0f6dbc7b6beb3e688f89c"
 
 [[files]]
+file = "config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 
