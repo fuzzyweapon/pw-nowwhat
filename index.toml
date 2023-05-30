@@ -838,7 +838,7 @@ hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
 [[files]]
 file = "config/mca.json"
-hash = "a72b138d1b9b1b60facddf55658a11cfcc0446a39d8327839e27e9f90d4c09fa"
+hash = "fb21b3e3c39d0060a18a6d25ead18c0432f72bb2061a62a58463fa37ad02bb3f"
 
 [[files]]
 file = "config/mcda/mcda_armor_stats.json5"
