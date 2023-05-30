@@ -781,38 +781,6 @@ file = "config/jecalculation/record.json"
 hash = "f4a599dff73103baa63c2142cc5f990d6ffecf62d04bc69b51b27f3a560cf235"
 
 [[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "4d3af16d4fa23bd1055c4a9d7aafb5f3c5cf0d21aee2f2031ce88f7c8ebfb3f4"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "f6faa8cf111795b26bb59fe7618381fba1879ddc35dbac176297f57941496ff6"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "0677a3f26da63a77446d4dba2e944aea84f422029a8567f397f3f710507d714b"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "8f986a34dbe2053ece09b3f6d7635e38b17ea5c49befb91e87d2c2e1a44c8b1a"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "684c8e7e6d76e3b267486c76e321d2d87d8d2af2ba8302d43fec88bb71da6af2"
-
-[[files]]
 file = "config/jsonem.properties"
 hash = "0e2529c7e9320dd40113c9b5a2fd862e4e4cc1322241316d350386cfbc0ba2e5"
 
@@ -2059,11 +2027,6 @@ hash = "193e7b2876b782bd75f33c6297961fa3b89742df6cfba94dd4b6327352e56cd1"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "6badcf3cae085842a9cdc5187d30320db687c9b4f741227b447c917034794a5b"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "deb5ad1638b59c973ad421838aac01971a7571ab6a1315909d2512de645316de"
 metafile = true
@@ -2071,16 +2034,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "2a9c076d804e0536647f5ade8098cc934efb0bb69ab10e7d9df86c19a85a305b"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "a57fc3a52bdc6806af02b604defad6e85f8fd54d14fba5482810485f10f69395"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "8cd8efa283704967d31332f10ef446867ebe7d1d534ba554e117bf326d77a22a"
 metafile = true
 
 [[files]]
