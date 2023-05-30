@@ -2933,7 +2933,7 @@ hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
 
 [[files]]
 file = "server.properties"
-hash = "84be848f6af65319923999676e7b43fe64a7ce311c3a232c02467bf631d0c7c5"
+hash = "a213470e4b8439a2688a29ba95dad6479f32dca02905512177f1148181f798d4"
 
 [[files]]
 file = "servers.dat"
