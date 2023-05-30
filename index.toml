@@ -1318,6 +1318,10 @@ file = "instance.png"
 hash = "0b5e0c62bc4c4033377ea1a903a3ee6b21454cacf0cffeb49205a3794d7d5096"
 
 [[files]]
+file = "mcrcon.exe"
+hash = "be44925ea0edbd31126025980a67167d589a6ea0f0ad579ef5c740a493708e3b"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "fcc1adb76adcdf283401b5844f15eef1e4ac9ef6a14a00fa96af08e4790c6e53"
 metafile = true
