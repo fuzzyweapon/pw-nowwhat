@@ -545,6 +545,14 @@ file = "config/cyclepaintings.json5"
 hash = "6e90cdb4f40e00a310741ba15682d4b92d1ec288219ab9533d067ed7d1c2e11d"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "2f6147cc21fe2882c10ed87115a53c664d317a5dd13c0d4bac0fc2a99addb6d1"
+
+[[files]]
+file = "config/darkmodeeverywhereshaders.json"
+hash = "7ab2dc237ecf8ed96f6853b3353746eb8e0e51deb5b19632c7bc78de1ffac98e"
+
+[[files]]
 file = "config/debugify-descriptions.json"
 hash = "65072f57da757e7be4fb30886dfee97337a8af068439d0cbc6683b437befeeae"
 
@@ -1683,6 +1691,11 @@ metafile = true
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "a049ab0b4ba9328d39c013ca1d48f2d0557cb37e39e3a06deff1edcecf19b66f"
+metafile = true
+
+[[files]]
+file = "mods/dark-mode-everywhere-fabric.pw.toml"
+hash = "56baa372a7d5533a8430ff0bba1110cf212efa2535eb8736ba2f7f93542a137e"
 metafile = true
 
 [[files]]

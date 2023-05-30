@@ -1,0 +1,13 @@
+name = "Dark Mode Everywhere (Fabric)"
+filename = "DarkModeEverywhere-1.19.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f65ec564ace6ddd41430962979ded716817fae41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4081883
+project-id = 696205
