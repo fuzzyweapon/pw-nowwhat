@@ -1077,6 +1077,10 @@ file = "config/setworldspawnpoint.json5"
 hash = "b2e2c7176c225f7c99f7c1f509c9f35b42ed87ce294a41fa0b05de21b47adf7d"
 
 [[files]]
+file = "config/smart_recipes.properties"
+hash = "fa64b513ed634e1e1b26b0b37594b901c382c51b207a66103f2b1a6e99b10908"
+
+[[files]]
 file = "config/smoothchunk.json"
 hash = "228d16ac3ebb3efe67596f25498f97eb4a626ac108bdc0deb2ddf0bb5c32cde9"
 
