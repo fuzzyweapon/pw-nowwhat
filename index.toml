@@ -1033,6 +1033,10 @@ file = "config/resourceful-config-web.json"
 hash = "c1a25fa6ccf7f773fbca4bc4a2d959a857194f8661bc7d33bc123c371cb52433"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "35bc41f9453cf6d04afaccdb417c1beb4ec9d9fb64496123bc344a3c9569152a"
+
+[[files]]
 file = "config/rrp.properties"
 hash = "8c354d59e1bad4084bc61c1ab383049b30abac7f01ba15622e0a4ffe142ee5e6"
 
@@ -2539,6 +2543,11 @@ metafile = true
 [[files]]
 file = "mods/retraining.pw.toml"
 hash = "ebd08d40884be14b2286cfd7afcf23783467955aa1e2345a458330560fa3a62e"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "adddc731b427ea7ea969e6270147fd206a16e466721004f265c308a79257fb76"
 metafile = true
 
 [[files]]
