@@ -762,7 +762,7 @@ hash = "d58cff679d52038212e75a69978876ed8319f23726abaee939072a4f28a22a2a"
 
 [[files]]
 file = "config/inventoryhud.json"
-hash = "ea3d6e905fe0697682a9b5d1786c5fb032cbce8231b62c8a236c1d4d1d7ab1e7"
+hash = "a49056762afd041896b1a22d5a79f812f802dd60f7018f331c394b777b8bf35c"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
