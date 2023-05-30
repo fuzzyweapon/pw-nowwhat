@@ -1222,6 +1222,10 @@ file = "config/villagernames-fabric.json5"
 hash = "3177d2e745007800c60ee0629dd024cd10ee8803c35222edcde743ede9afac20"
 
 [[files]]
+file = "config/vinery/config.json5"
+hash = "dd646be99ae0636898e4d8824d28dffa017e4c1372d71e5b38a0c00010fcdad6"
+
+[[files]]
 file = "config/waila/blacklist.json"
 hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
