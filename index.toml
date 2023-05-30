@@ -1017,6 +1017,10 @@ file = "config/polymer/server.json"
 hash = "278f33efcef6189ea44fb87d81b9f25eaa241e9760868b5f8011a45fc95fb9af"
 
 [[files]]
+file = "config/power_config.json5"
+hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
+
+[[files]]
 file = "config/professions/professions.conf"
 hash = "c71e2c809d52cb7a5d3e29ab040746b3aecc93bc68606f6d9bb457d58c3e2300"
 
